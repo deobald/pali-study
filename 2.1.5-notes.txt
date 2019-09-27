@@ -1,4 +1,8 @@
 
+# Week Two: Lesson 2.1.5
+
+Lesson URL: https://learning.pariyatti.org/mod/page/view.php?id=301
+
 1. "Dasahi, bhikkhave, dhammehi samannāgato puggalo na sevitabbo."
 
 dasahi: ten
@@ -73,3 +77,67 @@ samadhi: concentration++
 
 micchāñāṇī:
 āñāṇī: ...knowledge? somehow?
+
+micchāvimutti:
+vimutti: release, deliverance, emancipation
+मुक्ति (mukti): liberation
+
+--
+
+4. "- imehi kho, bhikkhave, dasahi dhammehi samannāgato puggalo na sevitabbo."
+
+imehi:
+ayaṃ: this person
+
+kho: indeed, surely (emphatic)
+
+"surely this person, bhikkus, who is a person possessed of these ten qualities, must
+not be served."
+
+--
+
+5. "Dasahi, bhikkhave, dhammehi samannāgato puggalo sevitabbo."
+
+dasahi / dasa: ten
+bhikkhave: monks
+dhammehi / dhamma: qualities
+samannagato / samannāgata: endowed with
+puggalo / paggala: person
+sevitabbo / sevati: serve, associate with
+
+--
+
+6. "Katamehi dasahi?"
+
+katamehi / katama: which, which one
+dasahi / dasa: ten
+
+--
+
+7. "Sammādiṭṭhiko hoti, sammāsaṅkappo hoti, sammāvāco hoti, sammākammanto hoti,
+sammā-ājīvo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti, sammāñāṇī
+hoti, sammāvimutti hoti -"
+
+sammaditthiko / ditthi:     right view
+sammasankappo / sankappa:   right thought (aspiration)
+sammavaco / vaca:           right speech
+sammakammanto / kamma+anta: right (final) action
+samma-ajivo / ajiva:        right livelihood
+sammavayamo / vayama:       right effort
+sammasati / sati:           right awareness (mindfulness)
+sammasamadhi / samadhi:     right concentration
+sammanani / [anani?]:       right [knowledge?]
+sammavimutti / vimutti      right liberation
+
+--
+
+8. "imehi kho, bhikkhave, dasahi dhammehi samannāgato puggalo sevitabbo”ti"
+
+imehi / ayaṃ: this person
+bhikkhave: bhikkus
+dasahi: ten
+dhammehi: qualities
+samannagato: possessed by
+puggalo: an individual
+sevitabbo: to serve
+ti: end quote.
