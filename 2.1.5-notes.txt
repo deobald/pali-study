@@ -5,7 +5,7 @@ Lesson URL: https://learning.pariyatti.org/mod/page/view.php?id=301
 
 1. "Dasahi, bhikkhave, dhammehi samannāgato puggalo na sevitabbo."
 
-dasahi: ten
+dasahi: ten (`hi`: instrumental, plural)
 dasa: 10 but auspicious, more meaningful than the number alone
 दस - ten
 
@@ -23,14 +23,14 @@ puggala: individual / person (m.)
 
 na: negative, no, not
 
-sevitabbo: associate with
+sevitabbo: associate with (`bbo`: future passive participal)
 sevati (sev): to serve, associate with
 
 --
 
 2. "Katamehi dasahi?"
 
-katamehi: which (instrumental, male, plural)
+katamehi: which (`ehi`: instrumental, male, plural)
 katama: which / which one (of many)
 
 dasahi: ten
@@ -43,14 +43,16 @@ hoti, micchāvimutti hoti -"
 
 Micchā (adv.): untruth, wrongly, in a wrong way, wrong / false
 Hoti (bhavati): to be, exists (in this context: "one who is")
+"myth"
+मिथ्या (mithya)
 
-micchaditthiko:
+micchaditthiko: (`ko`: posessive adjective, applying to person)
 ditthi: views
 दृष्टि (drishti): view, vision
 
 micchasankappo:
 sankappa: aspiration (thought)
-आकांक्षा (akanksha): aspiration
+संकल्प (sankalp): determination
 
 micchavaco:
 vaca: speech
@@ -77,6 +79,7 @@ samadhi: concentration++
 
 micchāñāṇī:
 āñāṇī: ...knowledge? somehow?
+nyana: "to know"
 
 micchāvimutti:
 vimutti: release, deliverance, emancipation
@@ -91,8 +94,12 @@ ayaṃ: this person
 
 kho: indeed, surely (emphatic)
 
+sam + annāgatatta (anna):
+
 "surely this person, bhikkus, who is a person possessed of these ten qualities, must
 not be served."
+
+sevitabbo: not exactly "associate" or "serve" but to follow, to follow their views/traits
 
 --
 
@@ -141,3 +148,40 @@ samannagato: possessed by
 puggalo: an individual
 sevitabbo: to serve
 ti: end quote.
+
+--
+
+Questions:
+
+1. Ledi Sayadaw says in the `Manuals of Dhamma` hunters and fishermen can practice
+Dhamma... how to interact with them?
+
+> Paula: When one cannot help but associate with (be near) those who have these ten
+  qualities, one should ensure to engender Metta toward them.
+
+--
+
+Notes:
+
+1. Double Consonants: https://en.wikipedia.org/wiki/Gemination
+
+2. Online Tipitaka: https://tipitaka.organ
+
+3. Tipitaka hierarchy, at the bottom of lesson PDFs:
+
+   Aṅguttaranikāyo, Dasakanipātapāḷi, Catutthapaṇṇāsakaṃ, Puggalavaggo
+
+   (A) Aṅguttara ("nikaya" is a suffix) - choose this Set
+   (B) Dasa (10) + kanipātapāḷi - choose this Book by number
+   (C) Catutthapaṇṇāsakaṃ (4) - choose this from the first dropdown
+   (D) Puggalavaggo - choose this from the second dropdown
+   (E) Sevitabbasuttam - choose the sutta
+   ( ) Click the right arrow ("=>")
+   ( ) Last, right-click the page and select "DPR" => "Convert to..." => "Devanagari"
+
+[ See: `week2-sutta-hierarchy-to-devanagari.png` for a visual explanation. ]
+
+Copy and paste Devanagari characters to look up their pronunciations. For example,
+Sudhakar was pointing out the difference between 'द' (dental) and 'ड' (palatal)
+sounds. Until we're accustomed to producing two different "D" sounds, using the teeth
+and the palate, respectively, it will be difficult to hear the difference. :)
