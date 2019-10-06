@@ -5,6 +5,12 @@ Lesson URL: https://learning.pariyatti.org/mod/page/view.php?id=306
 
 --
 
+0. "Dutiyasāmaññasuttaṃ"
+
+dutiya: second
+
+--
+
 1. "Sāvatthinidānaṃ"
 
 Sāvatthi: The city of Savatthi
@@ -16,8 +22,8 @@ Nidāna: Source, reason, cause, origin, foundation ("by means of")
 
 2. "Sāmaññañca vo, bhikkhave, desessāmi, sāmaññatthañca."
 
-Sāmaññañca => Sāmañña => samaṇa
--añca: ? not sure what this suffix means
+Sāmaññañca => Sāmañña (abstract noun; the state of being) => samaṇa
+-añca: would be "samannam" but turns into "n" + "ca"
 Sāmañña: striving for samana-ship, in accordance with true samana-ship
 samana: a monk, recluse, meditator
 
@@ -28,18 +34,19 @@ bhikkhave: monks
 desessāmi (deseti): to point out, preach, teach, expound
 
 sāmaññatthañca: -atthanca ? not sure what this suffix means ("purpose"?)
+-attham: purpose of, goal
 
 --
 
 3. "Taṃ suṇātha. Katamañca kho, bhikkhave, sāmaññaṃ?"
 
-Taṃ: that ("therefore"?)
+Taṃ: that ("therefore"? "listen.")
 
-suṇātha => Suṇāti: hears (listen)
+suṇātha => Suṇāti: hears (listen, imperative/command)
 
-Katamañca: which, what
+Katamañca (katamam): which, what
 
-kho: emphatic
+kho: emphatic ("surely", "indeed")
 
 bhikkhave: monks
 
@@ -50,8 +57,10 @@ sāmaññaṃ: recluse-ship
 4. "Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ– sammādiṭṭhi ...pe... sammāsamādhi."
 
 ayameva => ayam: "before our eyes", "the present", "this here", "just this"
+-eva: "only/just", "this very thing", "certainly" (emphatic)
 
 ariyo atthangiko maggo: noble eight-limbed path
+-ko: makes "atthang" into an adjective
 
 Sammādiṭṭhi:    right view
 sammāsaṅkappo: right thoughts, intention
@@ -67,6 +76,9 @@ sammāsamādhi:  right concentration++
 5. "Idaṃ vuccati, bhikkhave, sāmaññaṃ."
 
 Idaṃ => ida: this thing
+
+masculine: "magga" => "maggo" (therefore, "ayam")
+neuter: "sāmaññaṃ" => "samanna" (therefore, "idam")
 
 vuccati: what is said
 vutta => vatti: literally "existed", "happened"
@@ -92,16 +104,18 @@ sāmaññattho: purpose of recluse-ship
 
 7. "Yo kho, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo."
 
-yo => ya: any person, whoever, "something belonging to this category"
+yo (relative pronoun) => ya: any person, whoever, "something belonging to this category"
 
 kho: indeed, surely (emphasis)
 
 bhikkhave: monks
 
 khayo => khaya: waste, destruction, decay, consummation of
+कश in Sanskrit
+-kkhayo: a suppressed consonant connecting "moha" + "khayo"
 
 raga: craving
-dosa: aversion
+dosa: aversion (hatred, ill-will)
 moha: ignorance
 
 --
@@ -115,3 +129,10 @@ vuccati: "to be said", "to be called"
 bhikkhave: monks
 
 sāmaññattho: the purpose of recluse-ship
+
+--
+
+Notes:
+
+learning.pariyatti.com => "introduction" => "topic 2"
+> https://learning.pariyatti.org/mod/page/view.php?id=116
