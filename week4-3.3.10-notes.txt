@@ -1,0 +1,135 @@
+
+# Week Four: Lesson 3.3.10 - Lekhasuttaṃ
+
+Lesson URL: https://learning.pariyatti.org/mod/page/view.php?id=538
+
+Finding the sutta:
+
+Aṅguttaranikāyo, Tikanipātapāḷi, Paṭhamapaṇṇāsakaṃ, Kusināravaggo
+
+(from the bottom of 3.3.10_w.audio.pdf)
+
+In Digital Pali Reader Navigation:
+Set: Aṅguttaranikāyo => Aṅguttara
+Book: Tikanipātapāḷi => Ti (3)
+M | A | T: Ensure `Mula` is selected
+Hierarchy A: 1. Paṭhamapaṇṇāsakaṃ => This seems to be incorrect?
+             3. Tatiyapaṇṇāsakaṃ => Use this instead?
+
+Hierarchy B: (13) 3. Kusināravaggo
+
+Hierarchy C: 10. lekhasuttaṃ
+
+--
+
+0. Lekhasuttaṃ
+
+Lekha: writing, inscription, or drawing
+
+--
+
+1. "Tayome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo?"
+
+tayome => tayo: three (3) people
+
+puggalā => puggalo: individual, person
+
+santo => atthi: to exist
+
+saṃvijjamānā => Saŋvijjati: existing (aggitated, moved, stirred)
+
+lokasmiṃ => loka: world (existing within)
+
+Katame tayo? = "which three?"
+
+--
+
+2. "pāsāṇalekhūpamo puggalo, pathavilekhūpamo puggalo, udakalekhūpamo puggalo."
+
+ūpamo => upama: "coming quite or nearly up to", like, similar, equal
+lekha: writing, inscription, letter, epistle
+
+pāsāṇalekhūpamo => pāsāṇalekh: rock inscription [pāsāṇa = rock]
+pathavilekhūpamo => paṭhavi: earth / frequent in representing the earth as solid, firm, spacious ground
+udakalekhūpamo => udaka: water
+
+--
+
+3. "Katamo ca, bhikkhave, pāsāṇalekhūpamo puggalo?"
+
+pāsāṇalekh: rock inscriptions
+
+Which indeed (ca) are individuals (puggalo) like rock inscriptions, monks?
+
+--
+
+4. "Idha, bhikkhave, ekacco puggalo abhiṇhaṃ kujjhati. So ca khvassa kodho
+dīgharattaṃ anuseti."
+
+Idha: here, in this world
+
+ekacco => ekacca: some, a few, "one like" [eka = one]
+
+abhiṇhaṃ [contracted form of abhikkhaṇaŋ]: repeatedly, often, continuous
+
+kujjhati: to be angry
+
+so: he
+ca: now
+khvassa => kho: indeed / surely
+kodho => kodha: anger
+> kodha is one of the obstacles to Arahantship,
+  and freedom from kodha is one of the fundamental virtues of a well-balanced mind.
+
+dīgharattaṃ: a long time (adv.)
+
+anuseti: literally: "lies dormant" / "to lie down with"
+         meaning: to dwell on [anger]
+
+--
+
+5. "seyyathāpi, bhikkhave, pāsāṇe lekhā na khippaṃ lujjati vātena vā udakena vā,
+ciraṭṭhitikā hoti;"
+
+seyyathāpi: just as
+pāsāṇe => pāsāṇa: stone, rock
+lekha: writing
+
+na: not
+khippaṃ: quick (literally "like a shot" / throwing)
+lujjati: breaks up, falls apart
+
+> Question: How do we know vata and udaka in this sentence act on pasane lekha?
+
+vātena => vāta: wind, air
+vā: or
+udakena => udaka: water
+
+ciraṭṭhitikā: long-lasting
+
+--
+
+6. "evamevaṃ kho, bhikkhave, idhekacco puggalo abhiṇhaṃ kujjhati."
+
+evamevaṃ => eva: only (emphatic)
+kho: indeed (emphatic)
+
+idhekacco => idha + ekacco: here, in this place + some, a few
+puggalo: individuals
+abhiṇhaṃ: repeatedly
+kujjhati: are angry
+
+--
+
+7. "so ca khvassa kodho dīgharattaṃ anuseti. ayaṃ vuccati, bhikkhave, pāsāṇalekhūpamo puggalo.
+
+so: he
+ca: now
+khvassa => kho: surely (emphatic)
+kodho: anger
+dīgharattaṃ: for a long time
+anuseti: to dwell on (lit. "to lie down with")
+
+ayaṃ: this person
+vuccati: to be called
+pāsāṇa + lekh + ūpamo + puggalo: rock + inscription + like + person
