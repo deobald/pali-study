@@ -1,0 +1,24 @@
+
+# Study Group No. 2
+# Week Two: Lesson 2.1.3 - Abhiṇhapaccavekkhitabbaṭhānasuttaṃ
+
+Lesson URL: https://learning.pariyatti.org/mod/page/view.php?id=299
+
+Aṅguttaranikāyo, Pañcakanipātapāḷi, Paṭhamapaṇṇāsakaṃ,
+Nīvaraṇavaggo
+
+(from the bottom of 2.1.3_w.audio.pdf)
+
+## In Digital Pali Reader Navigation:
+
+Aṅguttara Nikāya, pañcakanipātapāḷi, 2. dutiyapaṇṇāsakaṃ, (6) 1. nīvaraṇavaggo, 7. abhiṇhapaccavekkhitabbaṭhānasuttaṃ (AN 5.57)
+
+Set: Aṅguttaranikāyo => Aṅguttara
+Book: Pañcakanipātapāḷi => Pañca (5)
+M | A | T: `Mula`
+Hierarchy A: 1. Paṭhamapaṇṇāsakaṃ => PDF is incorrect?
+             2. Dutiyapaṇṇāsakaṃ => correct?
+Hierarchy B: (6) 1. Nīvaraṇavaggo
+Hierarchy C: 7. Abhiṇhapaccavekkhitabbaṭhānasuttaṃ
+
+--

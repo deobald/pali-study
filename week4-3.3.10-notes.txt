@@ -31,8 +31,9 @@ Lekha: writing, inscription, or drawing
 1. "Tayome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo?"
 
 tayome => tayo: three (3) people
+-ime => ayam: these (plural)
 
-puggalā => puggalo: individual, person
+puggalā => puggalo: individual, person (plural)
 
 santo => atthi: to exist
 
@@ -46,8 +47,12 @@ Katame tayo? = "which three?"
 
 2. "pāsāṇalekhūpamo puggalo, pathavilekhūpamo puggalo, udakalekhūpamo puggalo."
 
+puggalo: individual (sing.)
+
 ūpamo => upama: "coming quite or nearly up to", like, similar, equal
 lekha: writing, inscription, letter, epistle
+> infer "inscribed" or "a line" from the definition + context of 2500 years ago
+> the Pali word for "line" is "pali" :)
 
 pāsāṇalekhūpamo => pāsāṇalekh: rock inscription [pāsāṇa = rock]
 pathavilekhūpamo => paṭhavi: earth / frequent in representing the earth as solid, firm, spacious ground
@@ -68,9 +73,11 @@ dīgharattaṃ anuseti."
 
 Idha: here, in this world
 
-ekacco => ekacca: some, a few, "one like" [eka = one]
+ekacco => ekacca: 1. some, a few, "one like" [eka = one]
+                  2. "a certain one"
 
 abhiṇhaṃ [contracted form of abhikkhaṇaŋ]: repeatedly, often, continuous
+अभिना
 
 kujjhati: to be angry
 
@@ -81,23 +88,29 @@ kodho => kodha: anger
 > kodha is one of the obstacles to Arahantship,
   and freedom from kodha is one of the fundamental virtues of a well-balanced mind.
 
-dīgharattaṃ: a long time (adv.)
+dīgharattaṃ: 1. a long time (adv.)
+             2. a long night (arratri: night)
+digha: long
 
 anuseti: literally: "lies dormant" / "to lie down with"
          meaning: to dwell on [anger]
+anu: follows
+seti: lying
+anukilesha: sleeping volcanoes
 
 --
 
 5. "seyyathāpi, bhikkhave, pāsāṇe lekhā na khippaṃ lujjati vātena vā udakena vā,
 ciraṭṭhitikā hoti;"
 
-seyyathāpi: just as
-pāsāṇe => pāsāṇa: stone, rock
+seyyathāpi: just as (introduce a simile)
+pāsāṇe => pāsāṇa: stone, rock (locative: "on a rock")
 lekha: writing
 
 na: not
 khippaṃ: quick (literally "like a shot" / throwing)
 lujjati: breaks up, falls apart
+> "lujjati ti loka" - that which is being constantly destroyed is loka
 
 > Question: How do we know vata and udaka in this sentence act on pasane lekha?
 
@@ -106,12 +119,14 @@ vā: or
 udakena => udaka: water
 
 ciraṭṭhitikā: long-lasting
+cira: long time
+titthati: lasting
 
 --
 
 6. "evamevaṃ kho, bhikkhave, idhekacco puggalo abhiṇhaṃ kujjhati."
 
-evamevaṃ => eva: only (emphatic)
+evamevaṃ: "thus, thus" literally (translated as "similarly, ")
 kho: indeed (emphatic)
 
 idhekacco => idha + ekacco: here, in this place + some, a few
@@ -187,9 +202,10 @@ ciraṭṭhitikā: long-lasting, perpetual
 
 11. "evamevaṃ kho, bhikkhave, idhekacco puggalo abhiṇhaṃ kujjhati."
 
-evamevaṃ => eva: only
+evamevaṃ => evam: thus (similarly)
+telugu: "illa" => "illailla"
 kho: emphatic
-idhekacco => idha + ekacca: here, in this world, there are some
+idhekacco => idha + ekacca: here, in this world, there is one
 puggalo: individuals
 abhiṇhaṃ: repeatedly, continuously
 kujjhati: become angry
@@ -198,8 +214,8 @@ kujjhati: become angry
 
 12. "so ca khvassa kodho na dīgharattaṃ anuseti."
 
-so: he / the individual
-ca: now
+so: this (anger)
+ca: but / and (connecting to previous sentence)
 khvassa => kho: indeed
 kodho: anger
 na: not
@@ -222,7 +238,7 @@ puggalo: individuals
 14. "katamo ca, bhikkhave, udakalekhūpamo puggalo?"
 
 katamo => katama: which?
-ca: now
+ca: and
 udaka (water) + lekh (writing) + ūpamo (similar to)
 puggalo: individuals
 
@@ -235,11 +251,15 @@ idha: here, in this world
 ekacco: some, a few
 puggalo: individuals
 āgāḷhenapi => āgāḷha: strong, hard, harsh, rough (in speech)
-vuccamāno => vuccamāna: saying or calling
+           => api: even (even when)
+galha: "throat" (when someone is speaking loudly, "galhagalha")
+
+vuccamāno => vuccamāna: saying or calling (addressed)
 pharusenapi => pharu: rough, harsh, unkind, cruel
 > Sanskrit: परशा / parusha, not to be confused with पुरुष / purusha
 vuccamāno: saying or calling
 amanāpenapi => amanāpa (detestful) + pi
+            => manapa (agreeable) vs. amanāpa (disagreeable)
 pi: also, even, just so, although, even if
 vuccamāno: saying or calling
 sandhiyatimeva => sandhi (union/break) + yat (?) + im (?) + eva (only):
@@ -262,7 +282,7 @@ udake: water
 lekhā: writing
 khippaṃ (quickly) + yeva (even, just, also)
 paṭivigacchati: go apart (again), go away, go asunder
-na ciraṭṭhitikā hot: does not last long
+na ciraṭṭhitikā hoti: does not last long
 
 --
 
