@@ -1,4 +1,6 @@
 
+Namo tassa bhagavato arahato sammasambuddhassa
+
 # Study Group No. 2
 # Week Two: Lesson 2.1.3 - Abhiṇhapaccavekkhitabbaṭhānasuttaṃ
 
@@ -38,13 +40,28 @@ paccavekkhitabbāni itthiyā vā purisena vā
 gahaṭṭhena vā pabbajitena vā."
 
 Pañcimāni (panca): five
-ṭhānāni: place/locality -or- condition;reason;cause
+-imāni: these
+ṭhānāni (ṭhā / ṭhitati: to stand):
+स्तिथि - posture
+स्तन - country / place
+- place / locality
+- fact; theme
+- condition; reason; cause
 abhiṇhaṃ: often; repeatedly
-paccavekkhitabbāni: consider; review; contemplate
-itthiyā: woman
-purisena: man
-gahaṭṭhena: householder
+paccavekkhitabbāni: (should) consider; review; contemplate
+- tabbāni: should (passive future participle)
+vā: or (comes after all the possibilities; see Satipatthana Sutta)
+itthiyā (itthi): woman
+-iyā: "by" (feminine instrumental case)
+purisena (purisa): man
+gahaṭṭhena (gahaṭṭha): householder
+gaha-: house
+-ṭṭha-: one who lives in (stands) ^ in a house
 pabbajitena (pabbajita): monk; reluse
+-ena: "by" (masculine instrumental case)
+
+Endings of nouns / genders:
+https://www.youtube.com/watch?v=joWLbqYxX8o
 
 --
 

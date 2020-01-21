@@ -1,4 +1,6 @@
 
+Namo tassa bhagavato arahato sammasambuddhassa
+
 # Study Group No. 2
 # Week Two: Lesson 3.1.1 - Buddhāna sāsanaṃ
 
@@ -18,7 +20,7 @@ sāsanaṃ - teaching; order; message; doctrine; a letter
 1. "Sabbapāpassa akaraṇaṃ"
 
 sabba: all; every; whole; entire
-pāpassa: unwholesome, sinful actions (dative singular case)
+pāpassa: unwholesome, sinful actions (`-assa`: dative singular case)
 pāpa: crime, evil action
 
 akaraṇaṃ: a-kara
@@ -31,20 +33,23 @@ a-kara: not to do; not to act (abstain from acting)
 
 kusala (+assa): good action; merit; virtue (dative singular)
 
-upasampadā: higher ordination of a monk
-- generally, "undertaking"
+upasampadā (upa+sampadā): higher ordination of a monk
+- generally, "undertaking", taking; acquiring; obtaining
+- sampadā: wealth
+
+pabbaja / pabbajanta: ordination of a novice; "going forth"
 
 --
 
 3. "sacittapariyodapanaṃ"
 
-sacitta: one's own mind
-pariyodapa (pariyodapeti): cleanses; purifies
+sa + citta: one's own mind
+pariyodapana (pariyodapeti): cleanses; purifies
 
 --
 
 4. "etaṃ buddhāna sāsanaṃ"
 
 etaṃ: this
-buddhāna: plural of "buddha" (all?)
+buddhāna: plural of "buddha" ("all" is implied)
 sāsanaṃ: teaching, doctrine
