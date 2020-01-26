@@ -49,6 +49,9 @@ Pañcimāni (panca): five
 - condition; reason; cause
 abhiṇhaṃ: often; repeatedly
 paccavekkhitabbāni: (should) consider; review; contemplate
+- pati: backwards; against; opposite
+- avekkhati: to see / to look (outside)
+- pati + avekkhati: opposite of "look outside" = "look inside"
 - tabbāni: should (passive future participle)
 vā: or (comes after all the possibilities; see Satipatthana Sutta)
 itthiyā (itthi): woman
@@ -77,8 +80,11 @@ abhiṇhaṃ paccavekkhitabbaṃ itthiyā vā purisena
 vā gahaṭṭhena vā pabbajitena vā."
 
 Jarādhammomhi: subject to decay
+- dhamma / dhammomhi: nature of
+- -omhi: first person ("I am")
 jaraṃ (jara): old; decayed; decrepit
-anatīto: future (atīto = past; gone by)
+anatīto: future (atīta/atīto = past; gone by)
+- also, literally "I cannot go past this"
 
 abhiṇhaṃ (often) paccavekkhitabbaṃ (contemplate) itthiyā (woman) vā purisena (man) vā
 gahaṭṭhena (householder) vā pabbajitena (monk) vā.
@@ -91,7 +97,7 @@ vā gahaṭṭhena vā pabbajitena vā."
 
 Byādhidhammomhi (byādhi): by nature subject to sickness/disease
 byādhiṃ: sickness, disease
-anatīto: future (atīto = past; gone by)
+anatīto: future (atīto = past; gone by) => cannot escape / go past
 
 abhiṇhaṃ etc. -- see 3.
 
@@ -114,39 +120,52 @@ abhiṇhaṃ paccavekkhitabbaṃ itthiyā vā purisena
 vā gahaṭṭhena vā pabbajitena vā."
 
 sabbehi: all; everything
+- "-ehi": plural
 me: to me; mine
 piyehi (piya): dear; beloved
 manāpehi (manapa): pleasing, charming
 - often "piya manapa"
+- manapa: agreeable
 nānābhāvo (nānābhāva): separation
+- "-bhavo" is nominative (present tense)
+- nānā: different
 vinābhāvo (vinābhāva): separation
+वीना (hindi): without
+
+- interestingly, future tense verb needs to be assumed (no existential verb is in the sentence)
 
 --
 
 7. "‘Kammassakomhi, kammadāyādo kammayoni
 kammabandhu kammapaṭisaraṇo,
 yaṃ kammaṃ karissāmi – kalyāṇaṃ vā pāpakaṃ
-vā– tassa dāyādo bhavissāmī’ti"
+vā– tassa dāyādo bhavissāmī’ti
+abhiṇhaṃ paccavekkhitabbaṃ itthiyā vā purisena
+vā gahaṭṭhena vā pabbajitena vā."
 
 Kammassakomhi => komhi: possession?
+"-saka": one's own (possession)
+"-mhi": first person
 kammadāyādo => dāyāda: inheritance
 kammayoni => yoni: womb (born of kamma)
 kammabandhu => bandhu: kinsman; relative; relation
-kammapaṭisaraṇo => paṭisaraṇa: shelter; protection
+kammapaṭisaraṇo => paṭisaraṇa: refuge; shelter; protection
+"-pati": either "opposite of" or (in this case) intensifies
+sarana: refuge
 
 yaṃ: which; whatever thing
 kammaṃ: kamma
-karissāmi (karo): do; perform
+karissāmi (karo): do; perform (future tense)
 kalyāṇaṃ (kalyaan): beautiful, auspicious, morally helpful
 va: or
 pāpakaṃ (pāpaka): wicked; wretched; sinful
 tassa (ta): that; that thing
-dāyāda: inheritance
-bhavissāmī: is; (my) state of existence
+dāyādo / dāyāda: inheritance
+bhavissāmī: is; (my) state of existence; future tense = "heir"
 
 abhiṇhaṃ, etc. - see 3.
 
---
+-- FINISHED HERE LAST TIME
 
 8. "“Kiñca, bhikkhave, atthavasaṃ paṭicca,
 
