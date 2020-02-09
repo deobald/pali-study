@@ -238,12 +238,15 @@ paṭisañcikkhati,"
 
 Sa => ta: that
 kho: indeed
-so: also
+so: this (actually "he")
 => "indeed also"?
 
 ariyasāvako: "disciple of the noble ones"
+ariya+savaka: noble + disciple
 iti: thus (this which is about to be mentioned)
 paṭisañcikkhati: think over; consider; reflect
+pati (opposite) + sam * (fully, with/together) + cikkhati (to tell, to announce)
+* SEE: Pali Conjugation PDF
 
 --
 
@@ -262,6 +265,23 @@ ahaññeveko: "I am the only one"
 
 kammassako, etc - see No. 7
 
+aham+[na]+eva+eko: i + not + only + one
+kammassako: inheritance?
+kamma+dayado: possession?
+kammayoni: womb / born
+kamma+bandhu: relative, kin
+kamma+ppatisarano: refuge
+
+yaṃ: which; whatever thing
+kammaṃ: kamma
+karissāmi (karo): do; perform (future tense)
+kalyāṇaṃ (kalyaan): beautiful, auspicious, morally helpful
+va: or
+pāpakaṃ (pāpaka): wicked; wretched; sinful
+tassa (ta): that; that thing
+dāyādo / dāyāda: inheritance
+bhavissāmī: is; (my) state of existence; future tense = "heir"
+
 --
 
 13. "atha kho yāvatā sattānaṃ āgati gati cuti upapatti
@@ -269,8 +289,9 @@ sabbe sattā kammassakā,"
 
 atha: then
 kho: indeed
-yāvatā: as far as; in comparison with
+yāvatā: as far as; in comparison with ("wherever")
 sattānaṃ: sattā (seven); "hanging; clinging, attached to"?
+sattānaṃ: sattā (beings?); satta+nam ("of beings")
 āgati: coming; coming back; returning
 gati: going
 cuti: passing away; vanishing
@@ -311,6 +332,7 @@ abhiṇhaṃ: often; repeatedly
 paccavekkhato: considers; contemplates
 maggo: the path
 sañjāyati: to be born or produced ("comes into existence")
++ya = passive verb
 
 --
 
@@ -322,6 +344,7 @@ maggaṃ: path
 āsevati: to frequent, visit; to practise, pursue
 bhāveti: increases; cultivates; develops
 bahulīkaroti: takes up seriously
+bahuli (much) + karoti (to make/do) = "to do much of / to make much of / increase?"
 
 --
 
@@ -335,7 +358,8 @@ taṃ: that
 maggaṃ: the path
 āsevato: frequent, visit; practice, pursue (the path)
 bhāvayato: becoming; increasing/cultivating the path
-bahulīkaroto: takes up seriously
+bahulīkaroto: takes up seriously ("to do/make much of")
+bahuli+karoto
 
 Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto
 => "in practicing and cultivating the path seriously"
