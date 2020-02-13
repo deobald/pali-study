@@ -78,7 +78,7 @@ Katame dve: which two?
     cāyaṃ attakilamathānuyogo dukkho anariyo
     anatthasaṃhito.
 
-Yo => ya: any person
+Yo => ya: any person (any practice?)
 cāyaṃ => ca: and, then/now
 kāmesu => kāma: pleasure, giving an object of sensual enjoyment
 kāmasukhallikānuyogo => [guesses] kāma (lust) + sukhalli (pleasurable)
@@ -90,11 +90,101 @@ pothujjaniko (breakdown?) => pothujjanika: belonging to the common man
 anariyo: an (not) + ariyo (noble)
 anatthasaṃhito: anattha (harm, misfortune) + saṃhita (equipped with, possessed of)
 
-=> Now any person engaging in sensual pleasures or the practice of moving toward comforts and lust is low and vile, belonging to the village, common -- these behaviours belong to the common person, are not noble, and equip a person with misfortune.
+=> Any practice of engaging in sensual pleasures or the practice of moving toward comforts and lust is low and vile. It is belonging to the village, common -- these behaviours belong to the common person, are not noble (not pursusing the path), and equip a person with misfortune.
 
-yo
-cāyaṃ
-attakilamathānuyogo
+yo: any person (any practice?)
+cāyaṃ => ca: and, then/now
+attakilamathānuyogo => attakilamatha (self-mortification) + anuyoga (practice / devotion)
+                    => attakilamatha => atta (self) + kilamatha (tiredness / fatigue / exhaustion)
 dukkho: suffering
 anariyo: not noble
-anatthasaṃhito.
+anatthasaṃhito: anattha (harm, misfortune) + saṃhita (equipped with, possessed of)
+
+=> Any practice of self-mortification, of exhausting oneself, causes suffering, is not noble (not pursuing the path), and equips a person with misfortune.
+
+--
+
+5. Ete kho, bhikkhave, ubho ante anupagamma
+   majjhimā paṭipadā
+   tathāgatena abhisambuddhā cakkhukaraṇī
+   ñāṇakaraṇī upasamāya abhiññāya
+   sambodhāya nibbānāya saṃvattati”.
+
+Ete kho: surely this
+bhikkhave: monks
+ubho: both (vestigial usage)
+ante => anta: the end(s), the goal(s)
+anupagamma: an (negated) upagamma (approached) => turned away from
+majjhimā: middle, medium, moderate, central
+paṭipadā: The Way, means of reaching a goal or destination
+tathāgatena => tathagata: Enlightened One (presumed historical)
+abhisambuddhā: abhi (mastering) + sambuddha (highest wisdom)
+cakkhukaraṇī: cakkhu (eyes) + karana (doing)
+ñāṇakaraṇī: ñāṇa (wisdom / insight) + karaṇī (doing => enlightening)
+upasamāya => upasama: calmness, tranquilizing
+abhiññāya => (abs. of abhijānāti): possessed of (supranormal) knowledge
+sambodhāya => sambodha: insight belonging to the three higher stages of the path
+nibbānāya => nibbāna: extinction of a fire, emancipation, final bliss
+saṃvattati => vattati: exists, goes on (completely)
+
+=> Certainly in this way, monks, the Tathagata has turned away from these two goals, turning
+   instead to the Middle Way to master the highest wisdom, to see clearly, the produce the
+   highest insight, to feel ultimate calm, to become possessed of supranormal knowledge,
+   to become completely awakened / fully enlightened, to experience nibbana -- the final bliss.
+
+--
+
+6. “Katamā ca sā, bhikkhave, majjhimā paṭipadā
+    tathāgatena abhisambuddhā
+    cakkhukaraṇī ñāṇakaraṇī upasamāya abhiññāya
+    sambodhāya nibbānāya saṃvattati?
+
+Katamā ca sā: what is this?
+majjhimā paṭipadā: middle way
+tathāgatena (ins. sing.): tathāgata
+abhisambuddhā: mastering sambuddha
+cakkhukaraṇī: seeing clearly
+ñāṇakaraṇī: doing with wisdom
+upasamāya => upsama: tranquilizing
+abhiññāya: mastering wisdom
+sambodhāya: higher insights (enlightenment)
+nibbānāya: nibbana, final bliss
+saṃvattati: completely goes on
+
+--
+
+7. Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṃ–
+   sammādiṭṭhi sammāsaṅkappo
+   sammāvācā sammākammanto sammā-ājīvo
+   sammāvāyāmo sammāsati sammāsamādhi.
+
+Ayameva: a+yama+eva ? eva = only ...what else?
+ariyo aṭṭhaṅgiko maggo: noble eight-limbed path
+seyyathidaṃ: Seyyathā (just as) + idam (this thing) => "as follows"
+sammādiṭṭhi: right view (right belief)
+sammāsaṅkappo: right thought / intention => [ saṅkappo = thought / purpose / plan ]
+sammāvācā: right speech
+sammākammanto: right action (righ conduct)
+sammā-ājīvo: right livelihood
+sammāvāyāmo: right effort
+sammāsati: right awareness
+sammāsamādhi: right concentration
+
+--
+
+8. Ayaṃ kho sā, bhikkhave, majjhimā paṭipadā
+   tathāgatena abhisambuddhā cakkhukaraṇī
+   ñāṇakaraṇī upasamāya abhiññāya sambodhāya
+   nibbānāya saṃvattati.
+
+Ayaṃ (this) kho sā: this certainly is
+majjhimā paṭipadā: the Middle Way
+tathāgatena (ins. sing.): of the Thathagata
+abhisambuddhā: mastering sambuddha-hood
+cakkhukaraṇī: (leads to) seeing clearly
+ñāṇakaraṇī: leads to wisdom
+upasamāya: leads to tranquility
+abhiññāya: leads to mastering wisdom
+sambodhāya: complete enlightenment
+nibbānāya: final bliss of nibbana
+saṃvattati: to completely go on to do these things
