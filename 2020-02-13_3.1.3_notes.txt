@@ -1,0 +1,76 @@
+
+Namo tassa bhagavato arahato sammasambuddhassa
+
+# Study Group No. 2
+# Week Six: Lesson 3.1.3 - Dhammacakkappavattanasuttaṃ
+
+Lesson URL: https://learning.pariyatti.org/mod/page/view.php?id=358
+
+Saṃyuttanikāyo, Mahāvaggapāḷi, Mahāvagga, Dhammacakkappavattanavaggo
+(from the bottom of 3.1.3_w.audio.pdf)
+
+Question: Why is the first part of the hierarchy either not listed or always listed incorrectly in the PDFs?
+
+## In Digital Pali Reader Navigation:
+
+Saṃyutta Nikaya, (5) Mahavaggo,  12. saccasaṃyuttaṃ, 2. dhammacakkappavattanavaggo, 1. dhammacakkappavattanasuttaṃ (SN 56.11)
+
+Set: Saṃyuttanikāyo => Saṃyutta
+Book: Mahāvaggapāḷi => (5) Mahavaggo
+M | A | T: `Mula`
+Hierarchy A: 12. Saccasaṃyuttaṃ (not listed in PDF?)
+Hierarchy B: 2. dhammacakkappavattanavaggo
+Hierarchy C: 1. dhammacakkappavattanasuttaṃ (SN 56.11)
+
+--
+
+0. Dhammacakkappavattanasuttaṃ
+
+Dhamma: Nature
+Cakka: wheel
+pavattana: carrying out, moving forward; doing good, beneficial, useful
+
+--
+
+1. "Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati
+   isipatane migadāye."
+
+Ekaṃ: one
+samayaṃ => samay: time
+bhagavā: blessed one, exhalted one, "Lord" (commonly misunderstood to mean "god")
+bārāṇasiyaṃ: in Varanasi
+viharati: residing
+Isipatane: residing place of the Pañcavaggiya monks:
+    Kondañña (Aññā Kondañña),
+    Bhaddiya,
+    Vappa,
+    Mahānāma
+    Assaji
+migadāye: miga (deer) + dāye (gift / park)
+- supposedly won from a king by a deer willing to give his own life to save a pregnant doe
+
+--
+
+2. "Tatra kho bhagavā pañcavaggiye bhikkhū
+    āmantesi."
+
+Tatra: "here and there" but in this particular case it means "in that place"
+kho: emphatic
+bhagavā: blessed one
+pañcavaggiye bhikkhū: the five monks
+āmantesi: call, address, invite, consult
+
+--
+
+3. "dveme, bhikkhave, antā pabbajitena na
+    sevitabbā. Katame dve?
+
+dveme: dwe (two) + me (these)
+antā: ends, goals
+pabbajitena => pabbajati: monk; one who has gone from the home
+na sevitabbā => sevati: (not) to serve, to associate with
+Katame dve: which two?
+
+--
+
+4.
