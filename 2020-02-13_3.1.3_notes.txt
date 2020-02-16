@@ -6,6 +6,8 @@ Namo tassa bhagavato arahato sammasambuddhassa
 
 Lesson URL: https://learning.pariyatti.org/mod/page/view.php?id=358
 
+Goenkaji: https://www.youtube.com/watch?v=7hLQPwN_ti0
+
 Saṃyuttanikāyo, Mahāvaggapāḷi, Mahāvagga, Dhammacakkappavattanavaggo
 (from the bottom of 3.1.3_w.audio.pdf)
 
@@ -38,8 +40,8 @@ pavattana: carrying out, moving forward; doing good, beneficial, useful
 Ekaṃ: one
 samayaṃ => samay: time
 bhagavā: blessed one, exhalted one, "Lord" (commonly misunderstood to mean "god")
-bārāṇasiyaṃ: in Varanasi
-viharati: residing
+bārāṇasiyaṃ: in Varanasi (locative case)
+viharati: residing (historical present tense)
 Isipatane: residing place of the Pañcavaggiya monks:
     Kondañña (Aññā Kondañña),
     Bhaddiya,
@@ -65,10 +67,12 @@ pañcavaggiye bhikkhū: the five monks
 3. "dveme, bhikkhave, antā pabbajitena na
     sevitabbā. Katame dve?
 
-dveme: dwe (two) + me (these)
+dveme: dwe (two) + ime (these)
 antā: ends, goals
+      => extremes
 pabbajitena => pabbajati: monk; one who has gone from the home
 na sevitabbā => sevati: (not) to serve, to associate with
+             => potential participle ; future passive participle
 Katame dve: which two?
 
 --
@@ -78,21 +82,26 @@ Katame dve: which two?
     cāyaṃ attakilamathānuyogo dukkho anariyo
     anatthasaṃhito.
 
-Yo => ya: any person (any practice?)
-cāyaṃ => ca: and, then/now
+Yo => ya: "that which is" / any practice
+cāyaṃ => ca: and (referring to kamesu+kamasukallikanuyogo), then/now
 kāmesu => kāma: pleasure, giving an object of sensual enjoyment
+       => locative case ("in")
 kāmasukhallikānuyogo => [guesses] kāma (lust) + sukhalli (pleasurable)
                      => kāma (lust) + sukha (comfort) + ā (toward) + anuyoga (practice / devotion)
                      => kāma (lust) + sukhallikānuyogo (luxurious living)
+                     => kama + sukha + allika + anuyoga
 hīno => hīna: low, vile, base, contemptable
 gammo => gamma: "belonging to the village", common, pagan
 pothujjaniko (breakdown?) => pothujjanika: belonging to the common man
+                          => puthu (many, numerous various) + jana (people) + iko (adj.)
 anariyo: an (not) + ariyo (noble)
-anatthasaṃhito: anattha (harm, misfortune) + saṃhita (equipped with, possessed of)
+anatthasaṃhito: anattha (harm, misfortune)
+                 + saṃhita (equipped with, possessed of, connected to)
+=> an (not) + attha (purpose, benefit, goal)
 
 => Any practice of engaging in sensual pleasures or the practice of moving toward comforts and lust is low and vile. It is belonging to the village, common -- these behaviours belong to the common person, are not noble (not pursusing the path), and equip a person with misfortune.
 
-yo: any person (any practice?)
+yo: any practice / "that which is"
 cāyaṃ => ca: and, then/now
 attakilamathānuyogo => attakilamatha (self-mortification) + anuyoga (practice / devotion)
                     => attakilamatha => atta (self) + kilamatha (tiredness / fatigue / exhaustion)
