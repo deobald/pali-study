@@ -47,6 +47,7 @@ Isipatane: residing place of the Pañcavaggiya monks:
     Mahānāma
     Assaji
 migadāye: miga (deer) + dāye (gift / park)
+- miga is "animals" more anciently
 - supposedly won from a king by a deer willing to give his own life to save a pregnant doe
 
 --
@@ -66,7 +67,7 @@ pañcavaggiye bhikkhū: the five monks
     sevitabbā. Katame dve?
 
 dveme: dwe (two) + me (these)
-antā: ends, goals
+antā: ends, goals, extremes
 pabbajitena => pabbajati: monk; one who has gone from the home
 na sevitabbā => sevati: (not) to serve, to associate with
 Katame dve: which two?
@@ -120,8 +121,11 @@ paṭipadā: The Way, means of reaching a goal or destination
 tathāgatena => tathagata: Enlightened One (presumed historical)
 abhisambuddhā: abhi (mastering) + sambuddha (highest wisdom)
 cakkhukaraṇī: cakkhu (eyes) + karana (doing)
+              => "eyes of dhamma"? / "one's own eyes"
 ñāṇakaraṇī: ñāṇa (wisdom / insight) + karaṇī (doing => enlightening)
+            => "one's own action"
 upasamāya => upasama: calmness, tranquilizing
+          => ...of impurities
 abhiññāya => (abs. of abhijānāti): possessed of (supranormal) knowledge
 sambodhāya => sambodha: insight belonging to the three higher stages of the path
 nibbānāya => nibbāna: extinction of a fire, emancipation, final bliss
@@ -188,3 +192,19 @@ abhiññāya: leads to mastering wisdom
 sambodhāya: complete enlightenment
 nibbānāya: final bliss of nibbana
 saṃvattati: to completely go on to do these things
+
+--
+
+Onward:
+
+- 4 noble truths / truths of noble people:
+  1. truth of dukkha (misery): birth, disease, old age, death, not satisfying craving
+     - deeper: clinging to 5 aggregates, even sukha / tranquility
+  2. truth of dukkha samodaya (arising) - tanha arises with dukkha
+     - kama tanha (sense pleasures)
+     - bhav tanha (self) - desire for "I" to be eternal
+     - nibbana tanha - craving for nibbana
+  3. truth of dukkha nirodha (nibbana)
+  4. truth of aathang ariyo maggo (8-part noble path) which takes one to dukkha nirodha
+
+  - 3 parts each: realizing, experiencing, perfecting
