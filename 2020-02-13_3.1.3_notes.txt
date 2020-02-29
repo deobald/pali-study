@@ -49,6 +49,7 @@ Isipatane: residing place of the Pañcavaggiya monks:
     Mahānāma
     Assaji
 migadāye: miga (deer) + dāye (gift / park)
+- miga is "animals" more anciently
 - supposedly won from a king by a deer willing to give his own life to save a pregnant doe
 
 --
@@ -133,10 +134,13 @@ tathāgatena => tathagata: Enlightened One (presumed historical)
 abhisambuddhā: abhi (mastering) + sambuddha (highest wisdom)
                => "awakened" (to the middle path)
 cakkhukaraṇī: cakkhu (eyes) + karana (doing)
+              => "eyes of dhamma"? / "one's own eyes"
 ñāṇakaraṇī: ñāṇa (wisdom / insight) + karaṇī (doing => enlightening)
+            => "one's own action"
     -aṇī (applies to 'majjhima patipada')
     -karaṇī (adj.)
 upasamāya => upasama: calmness, tranquilizing
+          => ...of impurities
 abhiññāya => (abs. of abhijānāti): possessed of (supranormal) knowledge
           => abhiññā - heavenly ear, knowing other's thoughts, knowing previous
                        births, etc.
@@ -214,3 +218,19 @@ abhiññāya: leads to mastering wisdom
 sambodhāya: complete enlightenment
 nibbānāya: final bliss of nibbana
 saṃvattati: to completely go on to do these things
+
+--
+
+Onward:
+
+- 4 noble truths / truths of noble people:
+  1. truth of dukkha (misery): birth, disease, old age, death, not satisfying craving
+     - deeper: clinging to 5 aggregates, even sukha / tranquility
+  2. truth of dukkha samodaya (arising) - tanha arises with dukkha
+     - kama tanha (sense pleasures)
+     - bhav tanha (self) - desire for "I" to be eternal
+     - nibbana tanha - craving for nibbana
+  3. truth of dukkha nirodha (nibbana)
+  4. truth of aathang ariyo maggo (8-part noble path) which takes one to dukkha nirodha
+
+  - 3 parts each: realizing, experiencing, perfecting
