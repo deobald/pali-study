@@ -3,11 +3,64 @@ Ekapuggalo Vaggo
 
 Navigation: Anguttara Nikaya, (1), M, ekakanipatipali, ekapuggalavaggo
 
-"ekapuggalo, bhikkhave, loke uppajjamāno uppajjati
- bahujanahitāya bahujanasukhāya lokānukampāya atthāya
- hitāya sukhāya devamanussānaṃ.
+1. "ekapuggalo, bhikkhave, loke uppajjamāno uppajjati
+    bahujanahitāya bahujanasukhāya lokānukampāya atthāya
+    hitāya sukhāya devamanussānaṃ.
 
 eka (one) puggalo (person / man)
 loke: plural of `loka`? "all the worlds"?
 uppajjamāno (uppajjamāna): past tense ("was born")
 uppajjati: to be born / to arise
+bahujana + hitāya
+    bahujana: a mass of people
+    hita: useful, suitable, beneficial, welfare of
+bahujanasukhāya: for the happiness of many people
+lokānukampāya
+    loka: world of humans
+    anukampā: compassion; pity
+atthāya: for the sake of
+    attha: welfare, profit, prosperity
+hitāya: benefit
+sukhāya: happiness
+deva + manussānaṃ
+    manussa: a human being
+    A) The popular etym. connects m. with Manu(s), the ancestor of men
+    B) Similarly with the other view of connecting it with "mind VvA 18: "manassa ussannatāya manussā"
+
+2. "katamo ekapuggalo?"
+
+which single person?
+
+3. "tathāgato arahaṃ sammāsambuddho. ayaṃ kho, bhikkhave,
+    ekapuggalo loke uppajjamāno uppajjati bahujanahitāya
+    bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānan”ti.
+
+tathāgato
+arahaṃ: arahant
+sammāsambuddho
+ayaṃ kho, bhikkhave ekapuggalo: this is that one person
+
+loke uppajjamāno uppajjati bahujanahitāya
+bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānan”ti.
+    => see above
+
+4. "ekapuggalassa, bhikkhave, pātubhāvo dullabho
+    lokasmiṃ. katamassa ekapuggalassa?"
+
+ekapuggalassa: genative & dative case
+pātubhāvo (pātubhāva): coming to manifestation
+dullabho (dullabha): rare, difficult to obtain
+lokasmiṃ (loka): locative -- "in the world"
+katamassa ekapuggalassa: who is this one person?
+
+5. "tathāgatassa arahato sammāsambuddhassa. imassa kho,
+    bhikkhave, ekapuggalassa pātubhāvo dullabho lokasmin”ti.
+
+tathāgatassa
+arahato
+sammāsambuddhassa
+imassa (ayaṃ): this person
+kho, bhikkhave, ekapuggalassa:
+pātubhāvo (pātubhāva): coming into manifestation
+dullabho (dullabha): rare
+lokasmin: in the world
