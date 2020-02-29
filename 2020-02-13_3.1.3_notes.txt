@@ -124,17 +124,31 @@ bhikkhave: monks
 ubho: both (vestigial usage)
 ante => anta: the end(s), the goal(s)
 anupagamma: an (negated) upagamma (approached) => turned away from
+            => anu () + pa (not) + gamma => not to be followed? (klaus)
+            => anu + pagamma
 majjhimā: middle, medium, moderate, central
 paṭipadā: The Way, means of reaching a goal or destination
 tathāgatena => tathagata: Enlightened One (presumed historical)
+       -ena: instrumental case (with / by / to)
 abhisambuddhā: abhi (mastering) + sambuddha (highest wisdom)
+               => "awakened" (to the middle path)
 cakkhukaraṇī: cakkhu (eyes) + karana (doing)
 ñāṇakaraṇī: ñāṇa (wisdom / insight) + karaṇī (doing => enlightening)
+    -aṇī (applies to 'majjhima patipada')
+    -karaṇī (adj.)
 upasamāya => upasama: calmness, tranquilizing
 abhiññāya => (abs. of abhijānāti): possessed of (supranormal) knowledge
+          => abhiññā - heavenly ear, knowing other's thoughts, knowing previous
+                       births, etc.
+          => From Satipattana Discourse:
+             1. Sanjanati - w sankhara / sanna
+             2. Pajanati - knowing as it is
+             3. Sampajanati - "up to the boundary" (boundary = mind-body)
+             4. Abhijanati - "going beyond the boundary"
 sambodhāya => sambodha: insight belonging to the three higher stages of the path
 nibbānāya => nibbāna: extinction of a fire, emancipation, final bliss
-saṃvattati => vattati: exists, goes on (completely)
+    -āya (dative: applies to 'saṃvattati' = "middle way *leads* to X")
+saṃvattati => vattati: exists, goes on (completely) - third person singular
 
 => Certainly in this way, monks, the Tathagata has turned away from these two goals, turning
    instead to the Middle Way to master the highest wisdom, to see clearly, the produce the
@@ -167,13 +181,16 @@ saṃvattati: completely goes on
    sammāvācā sammākammanto sammā-ājīvo
    sammāvāyāmo sammāsati sammāsamādhi.
 
-Ayameva: a+yama+eva ? eva = only ...what else?
+Ayameva: a+yama+eva ? eva = only, emphatic ("it is just this")
 ariyo aṭṭhaṅgiko maggo: noble eight-limbed path
+    => "limbs" in the sense that all 8 need to be developed in proportion,
+       like the limbs of a human being growing from baby to adult
 seyyathidaṃ: Seyyathā (just as) + idam (this thing) => "as follows"
 sammādiṭṭhi: right view (right belief)
 sammāsaṅkappo: right thought / intention => [ saṅkappo = thought / purpose / plan ]
 sammāvācā: right speech
-sammākammanto: right action (righ conduct)
+sammākammanto: right action (right conduct)
+               => kamma + anta (the end of action)
 sammā-ājīvo: right livelihood
 sammāvāyāmo: right effort
 sammāsati: right awareness
