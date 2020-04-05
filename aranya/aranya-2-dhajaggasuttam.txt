@@ -13,6 +13,7 @@ suññāgāreva: suññā (void, empty) + gār (house/hut) + eva (even, just)
 2. "anussaretha sambuddhaṃ, bhayaṃ tumhāka no siyā.
 
 anussaretha (anussarati): remembers
+    => imperative pl.
 sambuddhaṃ: the sambuddha
 bhayaṃ (bhaya): fear, fright, dread
 tumhāka (tumhā): second person ("you")?
@@ -26,7 +27,9 @@ no siyā: siyā => atthi: exist ...arise?
 no ce buddhaṃ sareyyātha: if you cannot recall the buddha
     sareyyātha (sarati): remembers
 lokajeṭṭhaṃ: loka (world, everyone) + jeṭṭha (elder, supreme)
-narāsabhaṃ (narāsabha): world of men
+narāsabhaṃ (narāsabha): lord of men
+    => narā: men (nom. pl.)
+    => usabha: bull / usabha = bull-like
 
 4. "atha dhammaṃ sareyyātha, niyyānikaṃ sudesitaṃ."
 
@@ -34,7 +37,12 @@ atha: then
 dhammaṃ: the dhamma
 sareyyātha: remember
 niyyānikaṃ (niyyānika): leading to salvation / leading out of samsara
+    => ni(r)-: out (also: without, forth, downwards)
+    => yāni: motion (a carriage)
+    => kaṃ: samsara?
 sudesitaṃ (sudesita): well-expounded
+    => su-: "well", opposite of "du-"
+    => desita: thought - desiti: teach
 
 5. "no ce dhammaṃ sareyyātha, niyyānikaṃ sudesitaṃ."
 
@@ -46,7 +54,9 @@ niyyānikaṃ sudesitaṃ.: leading out of samsara, well-expounded
 atha: then
 saṅghaṃ: the sangha
 sareyyātha: remember
-puññakkhettaṃ: puñña (wisdom, merit) + kkhettaṃ (???)
+puññakkhettaṃ:
+    => puñña wisdom, merit
+    => khetta: field
 anuttaraṃ (anuttara): incomparable, unsurpassed
 
 7. "evaṃ buddhaṃ sarantānaṃ, dhammaṃ saṅghañca bhikkhavo."
@@ -56,7 +66,7 @@ buddhaṃ: buddha
 sarantānaṃ (saranta): remembering
 dhammaṃ: dhamma
 saṅghañca: sangha
-    -añcha = ???
+    -añca = ñ (sandi) + -ca (and)
 bhikkhavo: bhikkhus
 
 8. "bhayaṃ vā chambhitattaṃ vā, lomahaṃso na hessatī”ti."
@@ -64,7 +74,10 @@ bhikkhavo: bhikkhus
 bhayaṃ vā: or fear/dread
 chambhitattaṃ vā: or to be stupefied (astonish, shock, unable to think properly)
 lomahaṃso (lomahaṃsa): "horripilation"
-    horripilation = "the erection of hairs on the skin due to cold, fear, or excitement"
+    horripilation = "the erection of hairs on the skin due to cold, fear, or
+    excitement"
+    => loma: body hair
+    => haṃso: stand on end
 na hessatī: not becoming / not producing
-    1) bhavati: becoming
+    1) bhavati: becoming (hessatī is fut. tense)
     2) janati: to produce, cause
