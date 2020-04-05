@@ -1,16 +1,136 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1561.61">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
-  </style>
-</head>
-<body>
-<p class="p1">Saṃyutta Nikāya, mahāvaggo n, 1. maggasaṃyuttaṃ, 1. avijjāvaggo n, 2. upaḍḍhasuttaṃ n (SN 45.2)</p>
-</body>
-</html>
+Saṃyutta Nikāya, mahāvaggo n, 1. maggasaṃyuttaṃ, 1. avijjāvaggo n, 2. upaḍḍhasuttaṃ n (SN 45.2)
+
+> Evaṃ me sutaṃ - thus it was heard by me
+
+> Ekaṃ samayaṃ bhagavā sakyesu (loc. pl.) viharati
+- one time the bhagavā was [with the sakyans] living
+
+> nagarakaṃ (loc.) nāma sakyānaṃ nigamo
+- in a town named Sakya (market town)
+
+> Atha kho āyasmā ānando yena bhagavā tenupasaṅkami
+- there Ananda then bhagavā [approached]
+
+Āyasmant = venerable, old
+tenupasaṅkami = ten (ta, he) + upasaṅkami (approached)
+
+> upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi.
+- after approaching the bhagavā and bowing he sat to one side (end)
+
+ekamantaṃ = eka + anta (end)
+
+> Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca:
+- sitting on one side ananda spoke to the bhagava like this 
+
+etadavoca = spoke like this 
+
+> "upaḍḍhamidaṃ, bhante, brahmacariyaṃ, yadidaṃ– kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā"ti.
+- this half of the holy life, bhante, which is this- virtuous [friends, companions, colleagues]
+
+upaḍḍhamidaṃ = upaḍḍha (half) + idaṃ (this)
+kalyāṇa - morally good, virtuous
+mittatā - state of friendship
+sahāyatā (sahāya) - companionship, friendship 
+sampavaṅkatā - connection, friendship, intimacy
+
+> "Mā hevaṃ, ānanda, mā hevaṃ, ānanda!
+mā - don't 
+hevaṃ - (va?) to say 
+      - (evaṃ) like that
+
+> Sakalamevidaṃ, ānanda, brahmacariyaṃ, yadidaṃ.
+the whole life, ananda, of brahmacariya, this is 
+
+sakala - whole
+mevidam = eva + idaṃ (this)?
+
+> Kalyāṇamittassetaṃ, ānanda, bhikkhuno pāṭikaṅkhaṃ kalyāṇasahāyassa kalyāṇasampavaṅkassa– 
+- with noble friends/companions/connections 
+
+pāṭikankha - desired, expected
+
+> ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvessati, 
+- he will live the noble 8-fold path
+
+> ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkarissati.
+- he will take it up seriously
+
+bahulīkarissati = bahu + lī + karoti
+
+> Kathañcānanda, bhikkhu kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti,
+- how ananda does a bhikkhu who has noble friends cultivate (bhāveti) the 8-fold noble path?
+
+> ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaroti?
+- how does he take up the noble 8-fold path seriously?
+
+> Idhānanda, bhikkhu sammādiṭṭhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. 
+- here ananda a bhikkhu develops right view, dependent on: seclusion, dispassion, cessation - maturing in relinquishment
+
+vivekanissitaṃ = viveka (detachment, seclusion) + nissitaṃ (dependent on)
+virāganissitaṃ = virāga (dispassion) + nissitaṃ (dependent on)
+nirodhanissitaṃ = nirodha (cessation) + nissitaṃ (dependent on)
+vossaggapariṇāmiṃ = vossagga (relinquishment) + pariṇāmiṃ (transformed into / matured to)
+
+> sammāsaṅkappaṃ bhāveti vivekanissitaṃ ...
+- right understanding / thought
+
+> sammāvācaṃ bhāveti ...pe... - right speech
+> sammākammantaṃ bhāveti ...pe... - right action
+> sammā-ājīvaṃ bhāveti ...pe... - right livelihood
+> sammāvāyāmaṃ bhāveti ...pe... - right effort
+> sammāsatiṃ bhāveti ...pe... - right awareness
+> sammāsamādhiṃ bhāveti - right concentration
+
+> ... vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ.
+- depenedent on detachment/seclusion, dispassion, cessation ... leading to relinquishment
+
+> Evaṃ kho, ānanda, bhikkhu kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti, 
+> ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaroti.
+- this is how 
+
+bhāveti = cultivates 
+bahulīkaroti = produces, works seriously 
+
+> Tadamināpetaṃ, ānanda, pariyāyena veditabbaṃ yathā sakalamevidaṃ brahmacariyaṃ, yadidaṃ:
+> kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā.
+
+yathā - that it is 
+sakalamevidaṃ = sakala (whole) + mevidaṃ (eva + idaṃ?) = very much this thing
+Tadamināpetaṃ - ?
+pariyāyena - method, applied method, figurative language
+veditabbaṃ - (vedita = experienced) should be known
+
+> Mamañhi, ānanda, kalyāṇamittaṃ āgamma jātidhammā sattā jātiyā parimuccanti,
+
+mamañ = ahaṃ (I / me) + hi (because of)
+āgamma - owing to 
+jātidhammā = jāti + dhamma (subject to birth)
+sattā = satta (a being, pl.)
+jātiyā - from birth 
+parimuccati - release, escape 
+
+> jarādhammā sattā jarāya parimuccanti;
+
+jarā - old age
+
+> maraṇadhammā sattā maraṇena parimuccanti;
+
+maraṇa - death
+
+> sokaparidevadukkhadomanassupāyāsadhammā sokaparidevadukkhadomanassupāyāsehi parimuccanti.
+
+soka - grief
+parideva - extreme wailing/crying 
+dukkha - suffering 
+domanassa - du + mana ("bad mind")
+upāyāsa - disturbance, unsettling condition 
+
+> Iminā kho etaṃ, ānanda, pariyāyena veditabbaṃ yathā 
+> sakalamevidaṃ brahmacariyaṃ, yadidaṃ– kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā”ti.
+
+iminā - (ayaṃ) through this 
+pariyāyena - (pariyāya) method 
+veditabbaṃ - should be known / experienced 
+yathā - that, then, according to (connector)
+
+sakalamevidaṃ etc. = the whole life of a brahmacari is noble friends/companions/connections 
