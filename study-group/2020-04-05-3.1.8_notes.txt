@@ -1,25 +1,33 @@
+
+# upaḍḍhasuttaṃ #
+
+"The Half Sutta"
+
 Saṃyutta Nikāya, mahāvaggo n, 1. maggasaṃyuttaṃ, 1. avijjāvaggo n, 2. upaḍḍhasuttaṃ n (SN 45.2)
 
-> Evaṃ me sutaṃ - thus it was heard by me
+> Evaṃ me sutaṃ 
+- thus it was heard by me
 
 > Ekaṃ samayaṃ bhagavā sakyesu (loc. pl.) viharati
-- one time the bhagavā was [with the sakyans] living
+- one time the bhagavā was [among the sakyans] living
 
-> nagarakaṃ (loc.) nāma sakyānaṃ nigamo
-- in a town named Sakya (market town)
+> nagarakaṃ (loc.) nāma sakyānaṃ nigamo (nom.)
+- in a town named Nagaraka, a Sakyan market town
 
 > Atha kho āyasmā ānando yena bhagavā tenupasaṅkami
 - there Ananda then bhagavā [approached]
 
 Āyasmant = venerable, old
-tenupasaṅkami = ten (ta, he) + upasaṅkami (approached)
+yena / tena (relative/demonstrative pronouns)
+tenupasaṅkami = tena (ta, he) + upasaṅkami (aor. approached)
 
-> upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi.
+> upasaṅkamitvā (abs.) bhagavantaṃ abhivādetvā (abs.) ekamantaṃ nisīdi (aor.).
+- abs. "having": "having approached", "having greeted"
 - after approaching the bhagavā and bowing he sat to one side (end)
 
 ekamantaṃ = eka + anta (end)
 
-> Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca:
+> Ekamantaṃ nisinno kho āyasmā ānando (nom.) bhagavantaṃ (acc.) etadavoca:
 - sitting on one side ananda spoke to the bhagava like this 
 
 etadavoca = spoke like this 
@@ -27,41 +35,48 @@ etadavoca = spoke like this
 > "upaḍḍhamidaṃ, bhante, brahmacariyaṃ, yadidaṃ– kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā"ti.
 - this half of the holy life, bhante, which is this- virtuous [friends, companions, colleagues]
 
-upaḍḍhamidaṃ = upaḍḍha (half) + idaṃ (this)
+upaḍḍhamidaṃ = upaḍḍha (aḍḍha = half) + idaṃ (neu. this)
 kalyāṇa - morally good, virtuous
-mittatā - state of friendship
+mittatā - state of friendship (tā = abstract noun: "-ness", "-ship")
 sahāyatā (sahāya) - companionship, friendship 
 sampavaṅkatā - connection, friendship, intimacy
 
 > "Mā hevaṃ, ānanda, mā hevaṃ, ānanda!
-mā - don't 
-hevaṃ - (va?) to say 
-      - (evaṃ) like that
+mā - don't / not
+hevaṃ - (he + evaṃ) emphatic + that / so
+- "certainly not so"
 
-> Sakalamevidaṃ, ānanda, brahmacariyaṃ, yadidaṃ.
-the whole life, ananda, of brahmacariya, this is 
+> Sakalamevidaṃ, ānanda, brahmacariyaṃ, yadidaṃ – kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā.
+the whole life, ananda, of brahmacariya, this is - friendship, friendship, friendship.
 
 sakala - whole
-mevidam = eva + idaṃ (this)?
+mevidam = eva (emphatic) + idaṃ (this)?
 
-> Kalyāṇamittassetaṃ, ānanda, bhikkhuno pāṭikaṅkhaṃ kalyāṇasahāyassa kalyāṇasampavaṅkassa– 
-- with noble friends/companions/connections 
+> Kalyāṇamittassetaṃ, ānanda, bhikkhuno (gen. / dat.) pāṭikaṅkhaṃ kalyāṇasahāyassa kalyāṇasampavaṅkassa– 
+- with noble friends/companions/connections
+- "-ssa" = gen. abs. in this case = "when"
 
-pāṭikankha - desired, expected
+Kalyāṇamittassetaṃ = Kalyāṇamitta + etaṃ (this)
+pāṭikankha - expected
+- "this is expected"
 
 > ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvessati, 
-- he will live the noble 8-fold path
+- bhāvessati = bhāvana (fut.)
+- he will develop the noble 8-fold path
 
 > ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkarissati.
-- he will take it up seriously
+- he will take it up seriously (lit. "make much")
 
 bahulīkarissati = bahu + lī + karoti
 
 > Kathañcānanda, bhikkhu kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti,
+- kathañcānanda = Kathaṃ (how) + cā (and) + ananda
 - how ananda does a bhikkhu who has noble friends cultivate (bhāveti) the 8-fold noble path?
 
 > ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaroti?
 - how does he take up the noble 8-fold path seriously?
+
+*** ended April 12th ***
 
 > Idhānanda, bhikkhu sammādiṭṭhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. 
 - here ananda a bhikkhu develops right view, dependent on: seclusion, dispassion, cessation - maturing in relinquishment
