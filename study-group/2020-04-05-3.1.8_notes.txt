@@ -76,10 +76,15 @@ bahulīkarissati = bahu + lī + karoti
 > ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaroti?
 - how does he take up the noble 8-fold path seriously?
 
+
+************************
 *** ended April 12th ***
+************************
+
 
 > Idhānanda, bhikkhu sammādiṭṭhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. 
 - here ananda a bhikkhu develops right view, dependent on: seclusion, dispassion, cessation - maturing in relinquishment
+- bhāveti: "makes development" (causative)
 
 vivekanissitaṃ = viveka (detachment, seclusion) + nissitaṃ (dependent on)
 virāganissitaṃ = virāga (dispassion) + nissitaṃ (dependent on)
@@ -89,63 +94,81 @@ vossaggapariṇāmiṃ = vossagga (relinquishment) + pariṇāmiṃ (transformed
 > sammāsaṅkappaṃ bhāveti vivekanissitaṃ ...
 - right understanding / thought
 
-> sammāvācaṃ bhāveti ...pe... - right speech
+> sammāvācaṃ bhāveti ...pe...     - right speech
 > sammākammantaṃ bhāveti ...pe... - right action
-> sammā-ājīvaṃ bhāveti ...pe... - right livelihood
-> sammāvāyāmaṃ bhāveti ...pe... - right effort
-> sammāsatiṃ bhāveti ...pe... - right awareness
-> sammāsamādhiṃ bhāveti - right concentration
+> sammā-ājīvaṃ bhāveti ...pe...   - right livelihood
+> sammāvāyāmaṃ bhāveti ...pe...   - right effort
+> sammāsatiṃ bhāveti ...pe...     - right awareness
+> sammāsamādhiṃ bhāveti           - right concentration
 
 > ... vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ.
 - depenedent on detachment/seclusion, dispassion, cessation ... leading to relinquishment
 
 > Evaṃ kho, ānanda, bhikkhu kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti, 
+- this is how ananda noble friends/acquaintances/colleagues help develop the noble 8-fold path
 > ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaroti.
-- this is how 
+- bahu+karoti = great development, make much
 
 bhāveti = cultivates 
 bahulīkaroti = produces, works seriously 
 
 > Tadamināpetaṃ, ānanda, pariyāyena veditabbaṃ yathā sakalamevidaṃ brahmacariyaṃ, yadidaṃ:
 > kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā.
+- "-atā" (abstract noun)
 
-yathā - that it is 
-sakalamevidaṃ = sakala (whole) + mevidaṃ (eva + idaṃ?) = very much this thing
-Tadamināpetaṃ - ?
-pariyāyena - method, applied method, figurative language
-veditabbaṃ - (vedita = experienced) should be known
+Tadamināpetaṃ = tad/taṃ (that/thus) + iminā (in these ways) + api (and) + etaṃ (this)
+pariyāyena - pariyaya = method, applied method, figurative language (yena = by this method)
+veditabbaṃ - (vedita = experienced) should be known (fut. pass. part.)
+yathā - "as" but here, "as how:"
+sakalamevidaṃ = sakala (whole) + m + evidaṃ (eva + idaṃ) = very much this thing
+brahmacariyaṃ - "holy life" (adj.)
+yadidaṃ - "it is this:" / "this is how it is:"
 
 > Mamañhi, ānanda, kalyāṇamittaṃ āgamma jātidhammā sattā jātiyā parimuccanti,
 
+mamaṃ - (ins.) "by me"
 mamañ = ahaṃ (I / me) + hi (because of)
-āgamma - owing to 
+kalyāṇamittaṃ - (accusative) "as a good friend"
+āgamma - owing to / dependent on
 jātidhammā = jāti + dhamma (subject to birth)
 sattā = satta (a being, pl.)
-jātiyā - from birth 
-parimuccati - release, escape 
+jātiyā - (abl.) from birth 
+parimuccati = pari + mutti - release, escape (present tense)
 
 > jarādhammā sattā jarāya parimuccanti;
+- beings subject to old age are liberated from old age
 
+jarāya - (abl.) "from death"
 jarā - old age
 
 > maraṇadhammā sattā maraṇena parimuccanti;
+- beings subject to death are liberated from death
 
+maraṇena - (ins.) "with/by/through death"
 maraṇa - death
 
-> sokaparidevadukkhadomanassupāyāsadhammā sokaparidevadukkhadomanassupāyāsehi parimuccanti.
+NOTE: ablative and instrumental often have similar intentions / meanings ("with" vs. "from")
+
+> sokaparidevadukkhadomanassupāyāsadhammāsattā sokaparidevadukkhadomanassupāyāsehi parimuccanti.
 
 soka - grief
 parideva - extreme wailing/crying 
 dukkha - suffering 
 domanassa - du + mana ("bad mind")
-upāyāsa - disturbance, unsettling condition 
+upāyāsa - disturbance, unsettling condition / strong grief (strongest of the list)
+dhamma - condition
+sattā - beings
+
+-ehi - (pl. ins.) "from all these things"
+parimuccanti - released from
 
 > Iminā kho etaṃ, ānanda, pariyāyena veditabbaṃ yathā 
 > sakalamevidaṃ brahmacariyaṃ, yadidaṃ– kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā”ti.
 
 iminā - (ayaṃ) through this 
-pariyāyena - (pariyāya) method 
+etaṃ - this (double pronoun)
+pariyāyena - by this method (pariyāya)
 veditabbaṃ - should be known / experienced 
-yathā - that, then, according to (connector)
+yathā - that, then, according to (connector) - but here: "how"
 
 sakalamevidaṃ etc. = the whole life of a brahmacari is noble friends/companions/connections 
