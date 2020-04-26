@@ -1,0 +1,79 @@
+
+anattalakkhanasuttam (SN 22.59)
+
+anatta + lakkhana + sutta.m
+
+anatta - no-self
+lakkhana - characteristic
+         - of what? anicca, dukkha, anatta
+
+> Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye.
+one time the buddha was staying in varanasi -> isipatana -> deer park
+
+miga - beast, deer
+daya - woods
+
+> Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:
+- there the bhagava addressed the group-of-five bhikkhūs
+
+vaggiya - group of, party
+
+> ‘‘Bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca :
+- 'bhikkhus.' 'Bhante' they replied. The Buddha said this:
+
+paccassosuṃ (paṭissuṇāti) - to assert agreement
+
+> ‘‘Rūpaṃ, bhikkhave, anattā. 
+- rupa is not self, bhukkhus
+
+> Rūpañca hidaṃ, bhikkhave, attā abhavissa, 
+-  and rupa, (emph.) [if] this thing the soul/self [would have been] [rupa]
+=> and if this thing (rupa) were/would-have-been self...
+
+hidaṃ (nom.) - this thing (object)
+attā (nom.) - self (object)
+abhavissa (bhavi) - would have been
+
+> nayidaṃ rūpaṃ ābādhāya saṃvatteyya, labbhetha ca rūpe:
+- this thing, rupa, would not lead to disease, and rupa would/could be obtained thus:
+
+ābādhāya (ābādhā) - disease, affliction
+saṃvatteyya (saṃvattati, 3rd opt./pot.) - would lead to
+labbhetha (labbhati, labh + ya) - to be obtained
+rupe (loc.) - in time?
+
+> ‘Evaṃ me rūpaṃ hotu, evaṃ me rūpaṃ mā ahosī’ti.
+- in this way let rupa be [this way] for me, in this way let rupa have not been [this way] for me.
+
+? - is evaṃ used as a sentence prefix here or as an object?
+evaṃ - thus, in this way
+rūpaṃ (nom./acc.) - object of sentence
+me (dat./gen.) - of/for/to me/mine
+hotu (fut.) - to be
+ahosī (past) - to be
+
+> Yasmā ca kho, bhikkhave, rūpaṃ anattā, 
+- and as the body is not self,
+
+yasmā / tasmā
+
+> tasmā rūpaṃ ābādhāya saṃvattati, na ca labbhati rūpe:
+- thus the body is subject to disease, and the body cannot be obtained thus:
+
+ābādhāya (ābādhā) - disease, affliction
+saṃvatteyya (saṃvattati, 3rd opt./pot.) - would lead to
+labbhetha (labbhati, labh + ya) - to be obtained
+rupe (loc.) - in time?
+
+> ‘Evaṃ me rūpaṃ hotu, evaṃ me rūpaṃ mā ahosī’’’ti.
+- in this way let rupa be [this way] for me, in this way let rupa have not been [this way] for me.
+
+> ‘‘Vedanā anattā.
+- sensation(s) is/are not self 
+
+> Vedanā ca hidaṃ, bhikkhave, attā abhavissa,
+- and vedanā, [if] self would be that (vedanā),
+
+> nayidaṃ vedanā ābādhāya saṃvatteyya, labbhetha ca vedanāya :
+- then vedanā would not be subject to disease, and vedanā would/could be obtained this:
+
