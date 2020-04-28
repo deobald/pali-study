@@ -3,70 +3,81 @@ anattalakkhanasuttam (SN 22.59)
 
 anatta + lakkhana + sutta.m
 
-anatta - no-self
+anatta - non-self
 lakkhana - characteristic
          - of what? anicca, dukkha, anatta
 
 > Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye.
 one time the buddha was staying in varanasi -> isipatana -> deer park
 
+viharati - (hist. pres. tense)
 miga - beast, deer
 daya - woods
 
 > Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:
 - there the bhagava addressed the group-of-five bhikkhūs
 
+pañcavaggiye (acc.)
 vaggiya - group of, party
+=> vagga - group
+amanteti - to call, to speak
 
 > ‘‘Bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca :
 - 'bhikkhus.' 'Bhante' they replied. The Buddha said this:
 
+bhadante = bhadra (safety) + anta (end) = "one who has the final safety"
+=> shortened to bhante
+bhagavato (dat.) - "to the bhagava"
 paccassosuṃ (paṭissuṇāti) - to assert agreement
+etadavoca (etad + avoca) - said this
 
 
 > ‘‘Rūpaṃ, bhikkhave, anattā. 
 - rupa is not self, bhukkhus
+- hoti implied
 
 > Rūpañca hidaṃ, bhikkhave, attā abhavissa, 
 - and if this thing (rupa) were/would-have-been self...
 
-hidaṃ (nom.) - this thing (object)
+hidaṃ (nom.) - this thing (rupa)
 attā (nom.) - self (object)
 abhavissa (bhavi, active cond.) - "if it would have been"
+  => always comes when something is not possible ("if pigs could fly" etc.)
 
 > nayidaṃ rūpaṃ ābādhāya saṃvatteyya, labbhetha ca rūpe:
-- this thing, rupa, would not lead to disease, and rupa would/could be obtained thus:
+- this thing, rupa, would not lead to disease, and [you] would/could obtain the body thus:
 
 ābādhāya (ābādhā) - disease, affliction
 saṃvatteyya (saṃvattati, 3rd opt./pot.) - would lead to
-labbhetha (labbhati, labh + ya) - to be obtained
+labbhetha (labbhati, labh + ya, 2nd pl. opt.) - to be obtained
 rupe (loc.) - in time?
 
-> ‘Evaṃ me rūpaṃ hotu, evaṃ me rūpaṃ mā ahosī’ti.
-- in this way let rupa be [this way] for me, in this way let rupa have not been [this way] for me.
 
-? - is evaṃ used as a sentence prefix here or as an object?
-evaṃ - thus, in this way
+> ‘Evaṃ me rūpaṃ hotu, evaṃ me rūpaṃ mā ahosī’ti.
+- let rupa be [thus] for me, in this way let rupa not be [thus] for me.
+
+evaṃ - thus
 rūpaṃ (nom./acc.) - object of sentence
 me (dat./gen.) - of/for/to me/mine
 hotu (fut.) - to be
-ahosī (past) - to be
+ahosī (literally past) - to be
+  => 'mā' verbs are always past-tense but don't necessarily mean past
 
 > Yasmā ca kho, bhikkhave, rūpaṃ anattā, 
-- and as the body is not self,
+- but as the body is not self,
 
 yasmā / tasmā
 
 > tasmā rūpaṃ ābādhāya saṃvattati, na ca labbhati rūpe:
-- thus the body leads to disease, and the body cannot be obtained thus:
+- thus the body leads to disease, and one cannot obtain [with regard to] form thus:
 
 ābādhāya (ābādhā) - disease, affliction
-saṃvatteyya (saṃvattati, 3rd opt./pot.) - would lead to
-labbhetha (labbhati, labh + ya) - to be obtained
+saṃvattati (saṃvattati, 3rd opt./pot.) - would lead to
+labbhati (pres. pass.) - to be obtained
 rupe (loc.) - in time?
 
 > ‘Evaṃ me rūpaṃ hotu, evaṃ me rūpaṃ mā ahosī’’’ti.
-- in this way let rupa be [this way] for me, in this way let rupa have not been [this way] for me.
+- let rupa be [thus] for me, in this way let rupa not be [thus] for me.
 
 
 > ‘‘Vedanā anattā.
@@ -76,19 +87,19 @@ rupe (loc.) - in time?
 - and vedanā, if self would be that (vedanā),
 
 > nayidaṃ vedanā ābādhāya saṃvatteyya, labbhetha ca vedanāya :
-- then vedanā would not lead to disease, and vedanā would/could be obtained this:
+- then vedanā would not lead to disease, and [you] would/could obtain vedanā thus:
 
 > ‘Evaṃ me vedanā hotu, evaṃ me vedanā mā ahosī’ti.
-- in this way let vedanā be [this way] for me, in this way let vedanā not have been [this way] for me.
+- let vedanā be [thus] for me, in this way let vedanā not be [thus] for me.
 
 > Yasmā ca kho, bhikkhave, vedanā anattā, 
-- since vedanā is not self
+- but since vedanā is not self
 
 > tasmā vedanā ābādhāya saṃvattati, na ca labbhati vedanāya:
 - then vedanā leads to disease, and vedanā cannot be obtained thus:
 
 > ‘Evaṃ me vedanā hotu, evaṃ me vedanā mā ahosī’’’ti.
-- in this way let vedanā be [this way] for me, in this way let vedanā not have been [this way] for me.
+- let vedanā be [thus] for me, in this way let vedanā not be [thus] for me.
 
 
 > ‘‘Saññā anattā ... pe ...
@@ -105,21 +116,21 @@ attā (nom.) - self (object)
 abhavissaṃsu (bhavi cond. 3rd. pl.) - "if they would have been"
 
 > nayidaṃ saṅkhārā ābādhāya saṃvatteyyuṃ, labbhetha ca saṅkhāresu:
-- this (sankhara) would not lead to disease/affliction, and sankharas could be obtained thus:
+- this (sankhara) would not lead to disease/affliction, and [you] could obtain sankharas thus:
 
-saṅkhāresu (loc. pl.) - in time?
+saṅkhāresu (loc. pl.) - in regard to sankharas
 
 > ‘Evaṃ me saṅkhārā hontu, evaṃ me saṅkhārā mā ahesu’ti.
-- in this way let sankharas be [this way] for me, in this way let sankharas not have been [this way] for me.
+- let sankharas be [thus] for me, in this way let sankharas not be [thus] for me.
 
 > Yasmā ca kho, bhikkhave, saṅkhārā anattā, 
-- since sankharas are not self
+- but since sankharas are not self
 
 > tasmā saṅkhārā ābādhāya saṃvattanti, na ca labbhati saṅkhāresu:
-- thus sankharas lead to disease/affliction, and sankharas cannot be obtained thus: 
+- thus sankharas lead to disease/affliction, and [you] cannot obtain sankharas thus: 
 
 > ‘Evaṃ me saṅkhārā hontu, evaṃ me saṅkhārā mā ahesu’’’ti.
-- in this way let sankharas be [this way] for me, in this way let sankharas not have been [this way] for me.
+- let sankharas be [thus] for me, in this way let sankharas not be [thus] for me.
 
 
 > ‘‘Viññāṇaṃ anattā.
@@ -129,21 +140,27 @@ saṅkhāresu (loc. pl.) - in time?
 - and viññāṇa, if self would be that,
 
 > nayidaṃ viññāṇaṃ ābādhāya saṃvatteyya, labbhetha ca viññāṇe:
-- this (viññāṇa) would not lead to disease, and viññāṇa could be obtained thus:
+- this (viññāṇa) would not lead to disease, and [you] could obtain viññāṇa thus:
 
 > ‘Evaṃ me viññāṇaṃ hotu, evaṃ me viññāṇaṃ mā ahosī’ti.
-- in this way let viññāṇa be [this way] for me, in this way let viññāṇa not have been [this way] for me.
+- let viññāṇa be [thus] for me, in this way let viññāṇa not be [thus] for me.
 
 > Yasmā ca kho, bhikkhave, viññāṇaṃ anattā,
-- since viññāṇa is not self
+- but since viññāṇa is not self
 
 > tasmā viññāṇaṃ ābādhāya saṃvattati, na ca labbhati viññāṇe:
-- thus viññāṇa leads to disease/affliction, and viññāṇa cannot be obtained thus:
+- thus viññāṇa leads to disease/affliction, and [you] cannot obtain viññāṇa thus:
 
 viññāṇe - loc. ?
 
 > ‘evaṃ me viññāṇaṃ hotu, evaṃ me viññāṇaṃ mā ahosī’’’ti.
-- in this way let viññāṇa be [this way] for me, in this way let viññāṇa not have been [this way] for me.
+- let viññāṇa be [thus] for me, in this way let viññāṇa not be [thus] for me.
+
+
+************************
+*** ended april 26th ***
+************************
+
 
 > ‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti?
 - what do you imagine, bhikkhus, that rupa is permanent or impermanent?
