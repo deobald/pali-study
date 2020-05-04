@@ -167,16 +167,17 @@ viññāṇe - loc. ?
 
 taṃ - that 
 kiṃ - what
-maññatha (maññati) - imagine / think
+maññatha (maññati 2nd. pl.) - imagine / think
 
-> ‘‘Aniccaṃ, bhante’’. 
+> ‘‘Aniccaṃ, bhante.’’ti
 
 > ‘‘Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā’’ti?
-- that which is impermanent is suffering or pleasure?
+- that which is impermanent is suffering or pleasure [happiness]?
 
+yaṃ / taṃ - contrasting pronouns = whatever / this
 panāniccaṃ - pana + anicca (interrogative)
 
-> ‘‘Dukkhaṃ, bhante’’.
+> ‘‘Dukkhaṃ, bhante.’’ti
 
 > ‘‘Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, 
 - regarding that which is impermanent, suffering, and subject to change,
@@ -184,14 +185,14 @@ panāniccaṃ - pana + anicca (interrogative)
 vipariṇāmadhammaṃ = vipariṇāma (change, for the worse) + dhammaṃ (subject to)
 
 > kallaṃ nu taṃ samanupassituṃ :
-- considering that (which was just mentioned)
+- is it proper to see it like this :
 
 kallaṃ (kalla) - proper
 nu - interrogative particle (with pronoun)
 taṃ (ta) - that thing
-samanupassituṃ (saṃ + anupassati) - see, perceive
+samanupassituṃ (saṃ + anu + passati, tuṃ = infinitive) - to see, to perceive
 
-> ‘Etaṃ mama, esohamasmi, eso me attā’’’ti? 
+> ‘Etaṃ mama, esohamasmi, eso me attā’?’’ti
 - this is mine, this is "I", this is my soul?
 
 mama - mine 
@@ -214,7 +215,7 @@ esohamasmi = eta (this) + aha.m (I) + asmi (atthi, to exist)
 - regarding that which is impermanent, suffering, and subject to change,
 
 > kallaṃ nu taṃ samanupassituṃ :
-- considering that (which was just mentioned)
+- is it proper/clever to see it like this :
 
 > ‘Etaṃ mama, esohamasmi, eso me attā’’’ti? 
 - is this mine, is this "I", is this my soul?
@@ -227,7 +228,9 @@ esohamasmi = eta (this) + aha.m (I) + asmi (atthi, to exist)
 > ‘‘Tasmātiha, bhikkhave, yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ 
 - therefore, bhikkhus, that [rupa] which exists in the past, future, or present
 
-tasmātiha (tasma) - therefore
+tasmātiha (tasma + tiha) - therefore
+- tiha does not seem to add any meaning
+kiñci (indef.) - whatsoever
 atīta (past) + anāgata (not yet come) + paccuppannā (existing)
 
 > ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā 
@@ -255,8 +258,6 @@ sammappaññāya - proper wisdom / sampajanna
 daṭṭhabbaṃ (dassati) - to see
 
 
-question: break here? or "Evametaṃ etc." belongts to the next passage?
-
 
 > Yā kāci vedanā atītānāgatapaccuppannā 
 - that whatever vedanā arisen in the past/future/present
@@ -267,8 +268,10 @@ question: break here? or "Evametaṃ etc." belongts to the next passage?
 > ‘Netaṃ mama, nesohamasmi, na meso attā’ti
 - ...is not mine, not "I", not my soul 
 
-> Evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ. 
-- that (emph.) must be realized [and seen] by direct experience and proper wisdom 
+> Evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ (ger. = fut. pass.)
+- thus-this must be realized [should be seen] by direct experience and proper wisdom 
+
+
 
 > ‘‘Yā kāci saññā ...pe... 
 > ye keci saṅkhārā atītānāgatapaccuppannā 
@@ -285,6 +288,8 @@ question: break here? or "Evametaṃ etc." belongts to the next passage?
 > Evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ. 
 - that (emph.) must be realized [and seen] by direct experience and proper wisdom 
 
+
+
 > ‘‘Yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ 
 - that whatever viññāṇa has arisen in the past/future/present
 
@@ -296,7 +301,15 @@ question: break here? or "Evametaṃ etc." belongts to the next passage?
 - ...is not mine, not "I", not my soul 
 
 > Evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.
-- that (emph.) must be realized [and seen] by direct experience and proper wisdom 
+- that (emph.) must be realized [and seen] by direct experience, as it is, and proper wisdom 
+
+
+
+************************
+***    ended may 3   ***
+************************
+
+
 
 > ‘‘Evaṃ passaṃ, bhikkhave, sutavā ariyasāvako 
 - seeing in this way, bhikkhus, a learned noble disciple
