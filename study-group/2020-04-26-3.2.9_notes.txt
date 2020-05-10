@@ -332,26 +332,33 @@ saṅkhāresupi = saṅkhāresu + pi (also) ?
 > Nibbindaṃ virajjati;
 - "branches eastward" (nibbindā) toward detachment
 
+nibbindā = ni + vid (to find out)
+
+virajjati (verb. 3rd. sing.) - to be free of clinging
+
 > virāgā vimuccati.
 - being free of craving, he is liberated
 
 > Vimuttasmiṃ vimuttamiti ñāṇaṃ hoti.
 - being liberated, knowledge of the liberation exists:
 
-vimuttasmiṃ - having been liberated (pp.)
-vimuttamiti (nom.?) - object 
+vimuttasmiṃ - having been liberated / when liberated (loc. abs.)
+'vimuttam'iti (nom. pp.) - object 
 ñāṇaṃ - knowledge
 
 > ‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ,
 - birth is exhausted, brahmacariyaṃ has come to perfection, what could be done was done 
 
 vusita - come to perfection
+kataṃ - what was done 
+karaṇīyaṃ (fut. pp.) - what should be done
 
 > nāparaṃ itthattāyā’ti pajānātī’’ti.
 - no other than this very life is understood
 
-nāparaṃ = na + para ? = not other ?
-itthattāyā (dat.) - (for) the present state, (for) this (very) life 
+nāparaṃ = na + aparaṃ  = no further
+itthattāyā (dat. / gen.) = ittha (here, in this world) + tta (-ness) + aya (gen.) 
+  - (of/for) the present state, (of/for) this (very) life 
 
 pajānātī - understood
 
@@ -359,19 +366,27 @@ pajānātī - understood
 - thus said the bhagavā.
 
 > Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti / abhinanduṃ .
-- happy-minded the group-of-five bhikkhus rejoiced 
+- happy-minded the group-of-five bhikkhus           rejoiced 
+
+abhinanduṃ (past. 3rd. pl.) - rejoiced
+
 
 > Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne
-- and moreover, this explanation given by the [bhaññamāne] ?
+- and moreover, when this explanation is spoken
 
-imasmiñca - and this
-pana - moreover
-veyyākaraṇa - explanation
+imasmiñca (loc. abs.) - [and] during this / [and] when this
+ca + pana = and + moreover
+veyyākaraṇa - explanation / exposition / grammar
+  sk. "vyakaran"
+bhaññamāne (p.p.) - being spoken
 
 > pañcavaggiyānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsūti.
 - the group-of-five bhikkhus were freed of asavas and their minds were liberated.
 
-anupādāya (an + upādiyati) - without grasping
-āsavehi - asavas
+pañcavaggiyānaṃ (gen.) - "[the minds] of the group of five"
+anupādāya (an + upādiyati / upadaana, ins.) - without grasping, "by non-clinging", "not having clung"
+  - although it is possible for 'anupādāya' to be ablative ("[liberated] from the attachment"), the 
+    translation of "by non-clinging" tends to make more sense in this context.
+āsavehi (ins.) - "from the asavas"
 cittāni (obj. pl.) - minds
-vimucciṃsūti  - liberated
+vimucciṃsū'ti (past. pl.) - liberated
