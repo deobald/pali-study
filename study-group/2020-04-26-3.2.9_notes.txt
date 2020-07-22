@@ -1,0 +1,392 @@
+
+anattalakkhanasuttam (SN 22.59)
+
+anatta + lakkhana + sutta.m
+
+anatta - non-self
+lakkhana - characteristic
+         - of what? anicca, dukkha, anatta
+
+> Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye.
+one time the buddha was staying in varanasi -> isipatana -> deer park
+
+viharati - (hist. pres. tense)
+miga - beast, deer
+daya - woods
+
+> Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:
+- there the bhagava addressed the group-of-five bhikkhūs
+
+pañcavaggiye (acc.)
+vaggiya - group of, party
+=> vagga - group
+amanteti - to call, to speak
+
+> ‘‘Bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca :
+- 'bhikkhus.' 'Bhante' they replied. The Buddha said this:
+
+bhadante = bhadra (safety) + anta (end) = "one who has the final safety"
+=> shortened to bhante
+bhagavato (dat.) - "to the bhagava"
+paccassosuṃ (paṭissuṇāti) - to assert agreement
+etadavoca (etad + avoca) - said this
+
+
+> ‘‘Rūpaṃ, bhikkhave, anattā. 
+- rupa is not self, bhukkhus
+- hoti implied
+
+> Rūpañca hidaṃ, bhikkhave, attā abhavissa, 
+- and if this thing (rupa) were/would-have-been self...
+
+hidaṃ (nom.) - this thing (rupa)
+attā (nom.) - self (object)
+abhavissa (bhavi, active cond.) - "if it would have been"
+  => always comes when something is not possible ("if pigs could fly" etc.)
+
+> nayidaṃ rūpaṃ ābādhāya saṃvatteyya, labbhetha ca rūpe:
+- this thing, rupa, would not lead to disease, and [you] would/could obtain the body thus:
+
+ābādhāya (ābādhā) - disease, affliction
+saṃvatteyya (saṃvattati, 3rd opt./pot.) - would lead to
+labbhetha (labbhati, labh + ya, 2nd pl. opt.) - to be obtained
+rupe (loc.) - in time?
+
+
+> ‘Evaṃ me rūpaṃ hotu, evaṃ me rūpaṃ mā ahosī’ti.
+- let rupa be [thus] for me, in this way let rupa not be [thus] for me.
+
+evaṃ - thus
+rūpaṃ (nom./acc.) - object of sentence
+me (dat./gen.) - of/for/to me/mine
+hotu (fut.) - to be
+ahosī (literally past) - to be
+  => 'mā' verbs are always past-tense but don't necessarily mean past
+
+> Yasmā ca kho, bhikkhave, rūpaṃ anattā, 
+- but as the body is not self,
+
+yasmā / tasmā
+
+> tasmā rūpaṃ ābādhāya saṃvattati, na ca labbhati rūpe:
+- thus the body leads to disease, and one cannot obtain [with regard to] form thus:
+
+ābādhāya (ābādhā) - disease, affliction
+saṃvattati (saṃvattati, 3rd opt./pot.) - would lead to
+labbhati (pres. pass.) - to be obtained
+rupe (loc.) - in time?
+
+> ‘Evaṃ me rūpaṃ hotu, evaṃ me rūpaṃ mā ahosī’’’ti.
+- let rupa be [thus] for me, in this way let rupa not be [thus] for me.
+
+
+> ‘‘Vedanā anattā.
+- sensation(s) is/are not self 
+
+> Vedanā ca hidaṃ, bhikkhave, attā abhavissa,
+- and vedanā, if self would be that (vedanā),
+
+> nayidaṃ vedanā ābādhāya saṃvatteyya, labbhetha ca vedanāya :
+- then vedanā would not lead to disease, and [you] would/could obtain vedanā thus:
+
+> ‘Evaṃ me vedanā hotu, evaṃ me vedanā mā ahosī’ti.
+- let vedanā be [thus] for me, in this way let vedanā not be [thus] for me.
+
+> Yasmā ca kho, bhikkhave, vedanā anattā, 
+- but since vedanā is not self
+
+> tasmā vedanā ābādhāya saṃvattati, na ca labbhati vedanāya:
+- then vedanā leads to disease, and vedanā cannot be obtained thus:
+
+> ‘Evaṃ me vedanā hotu, evaṃ me vedanā mā ahosī’’’ti.
+- let vedanā be [thus] for me, in this way let vedanā not be [thus] for me.
+
+
+> ‘‘Saññā anattā ... pe ...
+
+
+> Saṅkhārā anattā.
+- sankhara is not self 
+
+> Saṅkhārā ca hidaṃ, Bhikkhave, attā abhavissaṃsu, 
+and sankhara, if self would be that (sankhara)
+
+hidaṃ (nom.) - this thing (object)
+attā (nom.) - self (object)
+abhavissaṃsu (bhavi cond. 3rd. pl.) - "if they would have been"
+
+> nayidaṃ saṅkhārā ābādhāya saṃvatteyyuṃ, labbhetha ca saṅkhāresu:
+- this (sankhara) would not lead to disease/affliction, and [you] could obtain sankharas thus:
+
+saṅkhāresu (loc. pl.) - in regard to sankharas
+
+> ‘Evaṃ me saṅkhārā hontu, evaṃ me saṅkhārā mā ahesu’ti.
+- let sankharas be [thus] for me, in this way let sankharas not be [thus] for me.
+
+> Yasmā ca kho, bhikkhave, saṅkhārā anattā, 
+- but since sankharas are not self
+
+> tasmā saṅkhārā ābādhāya saṃvattanti, na ca labbhati saṅkhāresu:
+- thus sankharas lead to disease/affliction, and [you] cannot obtain sankharas thus: 
+
+> ‘Evaṃ me saṅkhārā hontu, evaṃ me saṅkhārā mā ahesu’’’ti.
+- let sankharas be [thus] for me, in this way let sankharas not be [thus] for me.
+
+
+> ‘‘Viññāṇaṃ anattā.
+- viññāṇa is not self 
+
+> Viññāṇañca hidaṃ, bhikkhave, attā abhavissa, 
+- and viññāṇa, if self would be that,
+
+> nayidaṃ viññāṇaṃ ābādhāya saṃvatteyya, labbhetha ca viññāṇe:
+- this (viññāṇa) would not lead to disease, and [you] could obtain viññāṇa thus:
+
+> ‘Evaṃ me viññāṇaṃ hotu, evaṃ me viññāṇaṃ mā ahosī’ti.
+- let viññāṇa be [thus] for me, in this way let viññāṇa not be [thus] for me.
+
+> Yasmā ca kho, bhikkhave, viññāṇaṃ anattā,
+- but since viññāṇa is not self
+
+> tasmā viññāṇaṃ ābādhāya saṃvattati, na ca labbhati viññāṇe:
+- thus viññāṇa leads to disease/affliction, and [you] cannot obtain viññāṇa thus:
+
+viññāṇe - loc. ?
+
+> ‘evaṃ me viññāṇaṃ hotu, evaṃ me viññāṇaṃ mā ahosī’’’ti.
+- let viññāṇa be [thus] for me, in this way let viññāṇa not be [thus] for me.
+
+
+************************
+*** ended april 26th ***
+************************
+
+
+> ‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti?
+- what do you imagine, bhikkhus, that rupa is permanent or impermanent?
+
+taṃ - that 
+kiṃ - what
+maññatha (maññati 2nd. pl.) - imagine / think
+
+> ‘‘Aniccaṃ, bhante.’’ti
+
+> ‘‘Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā’’ti?
+- that which is impermanent is suffering or pleasure [happiness]?
+
+yaṃ / taṃ - contrasting pronouns = whatever / this
+panāniccaṃ - pana + anicca (interrogative)
+
+> ‘‘Dukkhaṃ, bhante.’’ti
+
+> ‘‘Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, 
+- regarding that which is impermanent, suffering, and subject to change,
+
+vipariṇāmadhammaṃ = vipariṇāma (change, for the worse) + dhammaṃ (subject to)
+
+> kallaṃ nu taṃ samanupassituṃ :
+- is it proper to see it like this :
+
+kallaṃ (kalla) - proper
+nu - interrogative particle (with pronoun)
+taṃ (ta) - that thing
+samanupassituṃ (saṃ + anu + passati, tuṃ = infinitive) - to see, to perceive
+
+> ‘Etaṃ mama, esohamasmi, eso me attā’?’’ti
+- this is mine, this is "I", this is my soul?
+
+mama - mine 
+esohamasmi = eta (this) + aha.m (I) + asmi (atthi, to exist)
+
+> ‘‘No hetaṃ, bhante’’.
+- it isn't, bhante
+
+> ‘‘Vedanā... saññā... saṅkhārā... viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti?
+- are these permanent or impermanent?
+
+> ‘‘Aniccaṃ, bhante’’. 
+
+> ‘‘Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā’’ti?
+- and that which is impermanent, is it painful or pleasurable?
+
+> ‘‘Dukkhaṃ, bhante’’. 
+
+> ‘‘Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, 
+- regarding that which is impermanent, suffering, and subject to change,
+
+> kallaṃ nu taṃ samanupassituṃ :
+- is it proper/clever to see it like this :
+
+> ‘Etaṃ mama, esohamasmi, eso me attā’’’ti? 
+- is this mine, is this "I", is this my soul?
+
+‘‘No hetaṃ, bhante’’.
+- no they are certainly not, bhante 
+
+
+
+> ‘‘Tasmātiha, bhikkhave, yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ 
+- therefore, bhikkhus, that [rupa] which exists in the past, future, or present
+
+tasmātiha (tasma + tiha) - therefore
+- tiha does not seem to add any meaning
+kiñci (indef.) - whatsoever
+atīta (past) + anāgata (not yet come) + paccuppannā (existing)
+
+> ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā 
+- inside / outside / gross / subtle
+
+> hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, 
+- inferior / superior / that which is far or near
+
+yaṃ - that
+dūre - far 
+santike - near
+
+> sabbaṃ rūpaṃ :
+- all forms/bodies:
+
+> ‘Netaṃ mama, nesohamasmi, na meso attā’ti
+- not mine, not "I", not my soul 
+
+> Evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ. 
+- that (emph.) must be realized [and seen] by direct experience and proper wisdom 
+
+evametaṃ - emph. "that"
+yathābhūtaṃ (yathā + bhūta) - as it is, experienced 
+sammappaññāya - proper wisdom / sampajanna
+daṭṭhabbaṃ (dassati) - to see
+
+
+
+> Yā kāci vedanā atītānāgatapaccuppannā 
+- that whatever vedanā arisen in the past/future/present
+
+> ajjhattā vā bahiddhā vā ...pe... yā dūre santike vā, sabbā vedanā :
+- that what vedanā inside/outside/gross/subtle/inferior/superior/far-near ...all vedanā:
+
+> ‘Netaṃ mama, nesohamasmi, na meso attā’ti
+- ...is not mine, not "I", not my soul 
+
+> Evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ (ger. = fut. pass.)
+- thus-this must be realized [should be seen] by direct experience and proper wisdom 
+
+
+
+> ‘‘Yā kāci saññā ...pe... 
+> ye keci saṅkhārā atītānāgatapaccuppannā 
+- whatever saññā has arisen in the past/future/present
+
+... pe ...
+
+> ajjhattaṃ vā bahiddhā vā ...pe... ye dūre santike vā, sabbe saṅkhārā :
+- inside/outside/gross/subtle/inferior/superior/far-near ...all sankharas:
+
+> ‘Netaṃ mama, nesohamasmi, na meso attā’ti
+- ...is not mine, not "I", not my soul 
+
+> Evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ. 
+- that (emph.) must be realized [and seen] by direct experience and proper wisdom 
+
+
+
+> ‘‘Yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ 
+- that whatever viññāṇa has arisen in the past/future/present
+
+> ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā 
+> hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ viññāṇaṃ –
+- inside/outside/gross/subtle/inferior/superior/far-near ...all viññāṇa -
+
+> ‘Netaṃ mama, nesohamasmi, na meso attā’ti
+- ...is not mine, not "I", not my soul 
+
+> Evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.
+- that (emph.) must be realized [and seen] by direct experience, as it is, and proper wisdom 
+
+
+
+************************
+***    ended may 3   ***
+************************
+
+
+
+> ‘‘Evaṃ passaṃ, bhikkhave, sutavā ariyasāvako 
+- seeing in this way, bhikkhus, a learned noble disciple
+
+Q: -pi suffix below? 
+
+> rūpasmimpi nibbindati, vedanāyapi nibbindati,
+- turns away from rupa, vedanā
+
+nibbindati - "gets wearied of", "to have enough of", "to turn away from"
+
+> saññāyapi nibbindati, saṅkhāresupi nibbindati,
+- turns away from saññā, sankharas
+
+saṅkhāresupi = saṅkhāresu + pi (also) ?
+
+> viññāṇasmimpi nibbindati
+- truns away from viññāṇa
+
+> Nibbindaṃ virajjati;
+- "branches eastward" (nibbindā) toward detachment
+
+nibbindā = ni + vid (to find out)
+
+virajjati (verb. 3rd. sing.) - to be free of clinging
+
+> virāgā vimuccati.
+- being free of craving, he is liberated
+
+> Vimuttasmiṃ vimuttamiti ñāṇaṃ hoti.
+- being liberated, knowledge of the liberation exists:
+
+vimuttasmiṃ - having been liberated / when liberated (loc. abs.)
+'vimuttam'iti (nom. pp.) - object 
+ñāṇaṃ - knowledge
+
+> ‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ,
+- birth is exhausted, brahmacariyaṃ has come to perfection, what could be done was done 
+
+vusita - come to perfection
+kataṃ - what was done 
+karaṇīyaṃ (fut. pp.) - what should be done
+
+> nāparaṃ itthattāyā’ti pajānātī’’ti.
+- no other than this very life is understood
+
+nāparaṃ = na + aparaṃ  = no further
+itthattāyā (dat. / gen.) = ittha (here, in this world) + tta (-ness) + aya (gen.) 
+  - (of/for) the present state, (of/for) this (very) life 
+
+pajānātī - understood
+
+> Idamavoca bhagavā. 
+- thus said the bhagavā.
+
+> Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinandunti / abhinanduṃ .
+- happy-minded the group-of-five bhikkhus           rejoiced 
+
+abhinanduṃ (past. 3rd. pl.) - rejoiced
+
+
+> Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne
+- and moreover, when this explanation is spoken
+
+imasmiñca (loc. abs.) - [and] during this / [and] when this
+ca + pana = and + moreover
+veyyākaraṇa - explanation / exposition / grammar
+  sk. "vyakaran"
+bhaññamāne (p.p.) - being spoken
+
+> pañcavaggiyānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsūti.
+- the group-of-five bhikkhus were freed of asavas and their minds were liberated.
+
+pañcavaggiyānaṃ (gen.) - "[the minds] of the group of five"
+anupādāya (an + upādiyati / upadaana, ins.) - without grasping, "by non-clinging", "not having clung"
+  - although it is possible for 'anupādāya' to be ablative ("[liberated] from the attachment"), the 
+    translation of "by non-clinging" tends to make more sense in this context.
+āsavehi (ins.) - "from the asavas"
+cittāni (obj. pl.) - minds
+vimucciṃsū'ti (past. pl.) - liberated
