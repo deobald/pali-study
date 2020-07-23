@@ -2,36 +2,66 @@ Dvedhāvitakkasuttaṃ
 
 dwe (two) dhāvi (padhāvati: rushing forth) takka (thought / logic) suttam
 
+[[ I missed the first study session. ]]
+
+
+207.
+
+> So kho ahaṃ, bhikkhave, uppannuppannaṃ
+
+so ahaṃ - "this I"
+uppannuppannaṃ - uppanna (pp. uppajati: arisen) + uppannaṃ = "whenever it has arisen"
+    - the doubling causes uppajati to mean "whenever"
+
+> kāmavitakkaṃ pajahameva vinodameva
+
+kāmavitakkaṃ - kāma (lust) + vitakkaṃ (thoughts)
+pajahameva (n.) - to abandon      => "I have done abandonment (n.) to it"
+vinodameva (n.) - to remove       => "I have done removal (n.) to it"
+byantameva (n.) - to make an end  => "I have done an ending (n.) to it"
+
+> byantameva naṃ akāsiṃ.
+
+byantameva - an ending
+akāsiṃ - "I have done" (past. of "karoti")
+
+
 208.
 
->Tassa mayhaṃ, bhikkhave, evaṃ appamattassa
+> Tassa mayhaṃ, bhikkhave, evaṃ appamattassa
 
-tassa - that
-mayhaṃ - ahaṃ (I)
+tassa - this
+mayhaṃ - ahaṃ (for/of/while this I)
 evaṃ - thus
 appamattassa - vigilant, heedful
 
 > ātāpino pahitattassa viharato uppajjati
 
+- all in genative case
+
 ātāpino - ātāpi
-pahitattassa - Pahita1 [pp. of padahati] (resolute, energetic)
-viharato - residing
+pahitattassa - pahita [pp. of padahati] (resolute, energetic)
+viharato - pp. residing = resided / dwelled
 uppajjati - there arises
 
 > byāpādavitakko ...pe... uppajjati vihiṃsāvitakko.
 
-byāpādavitakko - byāpāda (malevolence) + vitakko (reflection / thought)
-vihiṃsāvitakko - vihiṃsā (cruelty, injuring) + vitakko
+byāpādavitakko - byāpāda (ill-will, malevolence) + vitakko (reflection / thought)
+vihiṃsāvitakko - vihiṃsā (cruelty, injuring) + vitakko (thought)
+
+vihiṃsā vs. ahiṃsā
 
 > So (it) evaṃ (thus) pajānāmi (I understood clearly):
 
 > ‘uppanno kho me ayaṃ vihiṃsāvitakko. So ca
 
-it arises in me, this vihiṃsā (cruelty). and it
+it arises in (for) me, this thought of vihiṃsā (cruelty). and it
 
 > kho attabyābādhāyapi saṃvattati,
 
 atta (self) + byābādhāyapi (harms)
+by (vi => bya as sandi) + ābādhā (disease, affliction)
+byābādhā + aya (toward / dat.) + pi
 saṃ+vattati - leads to
 
 > Parabyābādhāyapi saṃvattati,
@@ -52,3 +82,84 @@ anibbānasaṃvattaniko’ - is NOT conducive to nibbana
     nibbāna: cooling; extinction (of a fire);
              emancipation; the final bliss. (nt.)
     saṃvattanika: conducive to; involving. (adj.)
+    saṃvattatī: leads to
+
+> ‘Attabyābādhāya saṃvattatī’tipi me, bhikkhave,
+
+Attabyābādhāya - harming myself / self-affliction
+saṃvattatī - leads to
+
+> paṭisañcikkhato abbhatthaṃ gacchati;
+
+paṭisañcikkhato - pp. "when I reflected" / "while reflecting"
+    paṭi - opposite
+    saṃ - emphasis
+    cikkhati - to declare
+    => to declare, but inside = "considering"
+abbhatthaṃ - abhi (toward) + attha (home)
+gacchati - to go
+abbhatthaṃ gacchati - idiom meaning "disappearing" / "going away" literally "to go toward home"
+
+> ‘parabyābādhāya saṃvattatī’tipi me, bhikkhave,
+
+para - others
+
+> paṭisañcikkhato abbhatthaṃ gacchati;
+
+> ‘ubhayabyābādhāya saṃvattatī’tipi me,
+
+ubhaya - both
+
+> bhikkhave, paṭisañcikkhato abbhatthaṃ gacchati;
+
+> ‘paññānirodhiko vighātapakkhiko
+
+paññānirodhiko - cessation of panna
+vighātapakkhiko - vighāta (destruction) + pakkhiko (siding with)
+
+> anibbānasaṃvattaniko’tipi me,
+
+a + nibbāna + saṃvattaniko - leading away from nibbana
+
+> bhikkhave, paṭisañcikkhato abbhatthaṃ gacchati.
+
+paṭisañcikkhato - "when reflecting"
+abbhatthaṃ gacchati - "going toward home" = "disappear"
+
+> So kho ahaṃ, bhikkhave, uppannuppannaṃ
+
+whenever [this] arises for me
+
+> vihiṃsāvitakkaṃ... pajahameva vinodameva
+
+vihiṃsā (violence) + vitakkaṃ (thought)
+pajahameva - abandonment
+vinodameva - removal
+
+> byantameva naṃ akāsiṃ.
+
+byantameva (anta) - ending
+akāsiṃ - "I have done" (past. of "karoti")
+
+---
+
+> Yaññadeva, bhikkhave, bhikkhu
+
+yaṃ - which, whichever
+yaññadeva - whichever [bhikku]
+
+> bahulamanuvitakketi anuvicāreti,
+
+bahulamanuvitakketi = bahulam (abundant, frequently) + anu (repetition) + vitakketi (thoughts)
+anuvicāreti - anu (repeatedly) + vicara (rolling in thoughts, mulled over)
+
+> tathā tathā nati hoti cetaso.
+
+tathā tathā - "thus thus"
+nati - inclination
+hoti - is
+cetaso (gen.) - "of the mind"
+
+----------------------
+--- end of july 22 ---
+----------------------
