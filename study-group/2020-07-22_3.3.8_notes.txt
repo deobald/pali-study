@@ -163,3 +163,86 @@ cetaso (gen.) - "of the mind"
 ----------------------
 --- end of july 22 ---
 ----------------------
+
+> Kāmavitakkaṃ ce, bhikkhave, bhikkhu bahulamanuvitakketi anuvicāreti,
+
+kāma (lust) + vitakkaṃ (thoughts)
+bahula (much, frequent) + m + anuvitakketi (reflects, ponders)
+    anu (after, according to) + vi (emph.) + takk (logic / argument) + eti ("he thinks" = active, present, 3rd, sing.)
+    takk = तर्क (hi/sk)
+anu (after, according to) + vi (emph.) + cār (careti: one who walks, frequents) + eti
+
+> pahāsi nekkhammavitakkaṃ,
+
+pahāsi = seems wrong: makes one laugh; gladdens. (pa + has + e ... seems wrong)
+       = Pahāsi is 3rd sg. aor. of paharati;
+         -> paharati: to strike, hit, beat / join to
+       = harati
+         -> [bring?], take, steal, remove
+       = 3rd sg. aor of pajahati
+         -> pajahati: to give up, renounce, forsake, abandon, let go
+
+...pajahati + asi (2nd. sing.?)
+
+nekkhamma (renunciation, dispassion) + vitakkaṃ (thoughts of)
+
+> kāmavitakkaṃ bahulamakāsi,
+
+kāma (lust) + vitakkaṃ (thoughts)
+bahula (much, frequent) + m + akāsi (did, made, or performed. aor. of karoti.)
+
+> tassa taṃ kāmavitakkāya cittaṃ namati.
+
+tassa: sing. dat./gen. = "for/of him"
+tam: accusative "that thing"
+kāma (lust) + vitakkāya (thought, dat. "thought for/to ..him? or the kāmavitakkaṃ?")
+cittaṃ (nom. / acc. -- probably accusative = "his mind")
+namati (nameti) - "it bows down"
+
+--
+
+> Byāpādavitakkaṃ ce, bhikkhave ...pe... vihiṃsāvitakkaṃ ce, bhikkhave,
+
+Byāpāda (ill-will) + vitakkaṃ (thought)
+vihiṃsā (cruelty, violence) + vitakkaṃ (thought)
+
+> bhikkhu bahulamanuvitakketi anuvicāreti,
+
+bahula (much, frequent) + m + anuvitakketi (pondering)
+anuvicāreti = anu (after, according to) + vi (emph.) + cār (careti: one who walks, frequents) + eti
+
+> pahāsi avihiṃsāvitakkaṃ,
+
+pahāsi = seems wrong: makes one laugh; gladdens. (pa + has + e ... seems wrong)
+       = Pahāsi is 3rd sg. aor. of paharati;
+         -> paharati: to strike, hit, beat / join to
+       = harati
+         -> [bring?], take, steal, remove
+       = 3rd sg. aor of pajahati
+         -> pajahati: to give up, renounce, forsake, abandon, let go
+
+...pajahati + asi (2nd. sing.?)
+
+avihiṃsā + vitakkaṃ
+
+avihiṃsā ~= ahiṃsā ? (non-violence)
+
+> vihiṃsāvitakkaṃ bahulamakāsi,
+
+vihiṃsā (cruelty, violence) + vitakkaṃ
+bahula + m + akāsi (aor. of karoti)
+
+> tassa taṃ vihiṃsāvitakkāya cittaṃ namati.
+
+tassa: sing. dat./gen. = "for/of him"
+tam: accusative "that thing"
+vihiṃsā (cruelty, violence) + vitakkāya (thought, dat. "thought for/to ..him? or the kāmavitakkaṃ?")
+cittaṃ (nom. / acc. -- probably accusative = "his mind")
+namati (nameti) - "it bows down"
+
+--
+
+Seyyathāpi, bhikkhave, vassānaṃ pacchime māse
+saradasamaye kiṭṭhasambādhe gopālako gāvo
+rakkheyya. So tā gāvo tato tato daṇḍena ākoṭeyya
+paṭikoṭeyya sannirundheyya sannivāreyya.
