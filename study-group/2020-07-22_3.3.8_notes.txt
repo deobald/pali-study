@@ -242,7 +242,83 @@ namati (nameti) - "it bows down"
 
 --
 
-Seyyathāpi, bhikkhave, vassānaṃ pacchime māse
-saradasamaye kiṭṭhasambādhe gopālako gāvo
-rakkheyya. So tā gāvo tato tato daṇḍena ākoṭeyya
-paṭikoṭeyya sannirundheyya sannivāreyya.
+> Seyyathāpi, bhikkhave, vassānaṃ pacchime māse
+
+Seyyathāpi: "just as. (ind.)" ?
+vassānaṃ (acc.): rainy season
+pacchime: later, following, Western
+    (sk.) paschim
+    (hi.) पश्चिम (the west)
+    opp: purima
+māse: months
+
+> saradasamaye kiṭṭhasambādhe gopālako gāvo rakkheyya.
+
+sarada (the autumn) + samaya (time) + e (locative: "in")
+kiṭṭha (growing corn. (nt.)) + a (not, inverse) + sam (much) + bādha (hidrance, prevention) + e (locative: "in")
+    a+sam+bādha = "unobstructed"
+gopālako: go (gau, cow) + pālaka (guard, protector)
+gāvo: cattle
+rakkhati: protects; guards; observes; preserves. (rakkh + a)
+    (hi.) रख (to keep, maintain)
+
+> So tā gāvo tato tato daṇḍena ākoṭeyya
+
+so - he
+ta gavo - that cattle
+tato tato - therefore?
+daṇḍena - stick (danda, ins. - "uses a stick")
+ākoṭeyya - opt. (pot.) 3rd. sing. - "he might beat"
+    koṭṭeti - beat, smash, level (make even), cut, kill, massage
+
+> paṭikoṭeyya sannirundheyya sannivāreyya.
+
+paṭikoṭeyya = paṭi (back, against) + koṭeyya (to beat)
+sannirundheyya = sanni (???) + rundhati (prevent, obstruct, imprison)
+sannivāreyya = sanni (???) + vāreti (prevent, obstruct, hinder)
+    == "keep together"
+
+> Taṃ kissa hetu?
+
+taṃ - this
+kissa - what / which
+hetu - (syn. paccaya) = cause, reason, condition
+
+> Passati hi so, bhikkhave, gopālako tatonidānaṃ
+
+passati: seeing
+hi: (emph.)
+so: he
+gopālako: cowherd (go + palaka)
+tatonidānaṃ: tato (therupon) + nidānaṃ (consequences of)
+    tato: from there; from that; thence; therefore; thereupon. (ind.)
+    nidānaṃ: (in cpds.), by means of; in consequence of. (adv.)
+
+> vadhaṃ vā bandhanaṃ vā jāniṃ vā garahaṃ vā.
+
+vadha: punishment, execution
+bandhana: binding, bondage
+jāni: deprivation, loss
+garahā: blame
+
+> Evameva kho ahaṃ, bhikkhave, addasaṃ
+
+evameva kho: emph. "just so"
+ahaṃ: "I"
+addasaṃ: fr. dakkhati - to see
+
+> akusalānaṃ dhammānaṃ ādīnavaṃ okāraṃ saṃkilesaṃ,
+
+akusalānaṃ: a (not) + kusala (good, meritorious) + nam (?)
+dhammānaṃ: ways of being
+(object?) ādīnavaṃ: disadvantageous (ādīnava = disadvantage)
+okāraṃ: okāra - lowly, degrading
+saṃkilesaṃ: sam (much) + kilesa = passion; lust; depravity; impurity. (m.)
+
+> kusalānaṃ dhammānaṃ nekkhamme ānisaṃsaṃ vodānapakkhaṃ. ...
+
+kusalānaṃ: wholesome
+dhammānaṃ: ways of being
+nekkhamme: nekkhamma (loc. - "in renunciation")
+(object?) ānisaṃsaṃ: ānisaṃsa (acc.): profit; merit; good result. (m.)
+vodānapakkhaṃ = vodāna: purity; sanctification. (nt.) + pakkha: adherent, associated with (m. acc.)
