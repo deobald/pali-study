@@ -13,9 +13,12 @@ tara: (in cpds.), crossing; passing over. (adj.)
 one time the bhagava was staying at/near savatthi (f.loc.)
 in anathapindika's pleasure (arame) park/grove (jetavana)
 
+vane (hi.) - forest
+vane (pi) - monastery (forest monastery)
+
 > Tena kho pana samayena
 
-tena - on account of it
+tena ("ta" ins.) - "by that time"
 pana - and now, moreover
 samayena - time (ins. "at that time")
 
@@ -23,14 +26,17 @@ samayena - time (ins. "at that time")
 
 - king pasendati of kosala, with queen mallika
 
+kosalo - "from/of kosala"
+    fully: "raja pasenadi kosalo"
 saddhiṃ - with
 
 >  uparipāsādavaragato hoti.
 
 upari: above; on; upon; upper; overhead. (ind.)
 pāsāda: a mansion; place; castle. (m.)
-??? vara: excellent; noble. (m.), a boon; favour. (adj.)
-gato: to go
+varagato: "gone to excellence" (the top floor)
+    vara: excellent; noble. (m.), a boon; favour. (adj.)
+    gato: to go
 
 > Atha kho rājā pasenadi kosalo mallikaṃ deviṃ etadavoca:
 
@@ -46,30 +52,33 @@ attanā: atta ("self", ins. "by, with, through" / abl. "from")
     abl. => "apart from [yourself]"?
 
 piyataro (nom. sing.): "beloved" (from title of sutta)
+    -tara: comparative suffix
 
 > “Natthi kho me, mahārāja, kocañño attanā piyataro”.
 
-natthi: "exist" (negated) => "does not exist"
+natthi (na + atthi): "exist" (negated) => "does not exist"
 kho me: "to me"
 kocañño: koc ("whoever"?) + añño (other)
-attanā (ins./abl.): atta
+attanā (ins./abl.): atta (here, "myself")
 piyataro: "beloved" / "dear"
 
 > Tuyhaṃ pana, mahārāja, atthañño koci attanā piyataro”ti?
 
-tuyhaṃ (acc. case?): tuvaṃ: thou. (nom. sin. of tumha)
+tuyhaṃ (acc.): tuvaṃ: thou. (nom. sin. of tumha)
+    lit: "to you"
 atthañño: "is there another?"
     atthu: be it so. (imper. of atthi)
     añña: other; another; else. (adj.)
-koci: "whoever"
+koci: "whoever" / "anyone"
 attanā: atta (abl.)
-piyataro: "beloved"
+piyataro: "beloved" => "dear-er" (piya+tara)
 
 > “Mayhampi kho, mallike, natthañño koci attanā piyataro”ti.
 
 mayhampi: "for me also"
+    mayhaṃ: (dat.) "ahaṃ"
     ahaṃ: I. (nom. sing. of amha)
-    pi: "and also"
+    -api: "and also"
 natthañño: n (not) + atthi (exists) + añño (other / another)
 koci: "whoever"
 attanā: myself (abl. "from" / "apart from")
@@ -82,19 +91,19 @@ piyataro: "beloved"
 pāsādā - palace
 orohitvā - descend
 => yena / tena - pronoun pairs
-tenupasaṅkami: ten (tena: "on account of"..."then") + upasaṅkami (approached)
+yena bhagava
+tenu-pasaṅkami: tena ("on account of"..."then") + upasaṅkami (approached)
     upasaṅkami: approached. (aor. of upasaṅkamati)
 
 > Upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi.
 
 upasaṅkamitvā: "having approached"
-    -tva = "gerund" = "having done X"
+    -tva = (abs.) "gerund" = "having done X"
 bhagavantaṃ:
     bhagavant = ...adj??
     -taṃ = acc.??
-abhivādetvā: abhivādeti (caus. of abhivadati) = "having bowed down"
+abhivādetvā: (abs.) abhivādeti (caus. of abhivadati) = "having bowed down"
     abhivadati: "speak out" / "call out to" / "greet"
-    ???? - how is the causative = bowing down?
 ekamantaṃ: ekam (one) + anta (end) = "on one end"
 nisīdi: "sat down"
 
@@ -102,14 +111,19 @@ nisīdi: "sat down"
 
 - having sat down to one side/end, king pasendati of kosala spoke to the buddha:
 
+nisinno: (p.p.) "seated to one side"
+
 > “Idhāhaṃ, bhante, mallikāya deviyā saddhiṃ uparipāsādavaragato
 
 - "I went with queen mallika to the top of the palace"
 
-idhāhaṃ: "I said"??
+idhāhaṃ: idha ("here") + ahaṃ ("I")
 saddhiṃ: "with"
 
 > mallikaṃ deviṃ etadavocaṃ:
+
+mallikaṃ deviṃ: -aṃ & -iṃ = obj.
+etadavocaṃ: (1st. past.) "I said [to]"
 
 - "...[I said to] queen mallika:"
 
@@ -120,7 +134,8 @@ saddhiṃ: "with"
 > Evaṃ vutte, mallikā devī maṃ etadavoca:
 
 evaṃ: thus
-vutte (pp. of vatti, vac): "spoken"
+vutte (pp. of vatti, vac): lit. "said"
+mallikā devī: long -ā & -ī = subj.
 maṃ (acc.): "to me"
 
 > ‘natthi kho me, mahārāja, kocañño attanā piyataro.
@@ -144,15 +159,17 @@ koci: "some one" / "whoever"
 - indeed for me also, mallika, there exists not another someone [dearer] than myself
 
 mayhampi: "for me also"
-    ahaṃ: I. (nom. sing. of amha)
+    mayhaṃ => ahaṃ: I. (nom. sing. of amha)
     pi: "and also"
 
 > Atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi:
 
+- this sentence is repeated in each "udāna" sutta
+
 atha: then
-etamatthaṃ: eta (this) + mattha (brains?)
+etamatthaṃ: eta (this) + m + attha (meaning)
 viditvā (vindati): "having known"
-tāyaṃ (loc.): "in [that thing]"?
+tāyaṃ = ta (loc.): "in [that thing]"?
 velāyaṃ (loc.): "at/in that time"
     velā: time; shore; limit; boundary. (f.)
 imaṃ: ayam - "this person" / "he"
@@ -163,29 +180,34 @@ udānesi (verb. 2nd. sing.): "says something with intense emotion"
 > “Sabbā disā anuparigamma cetasā,
 
 sabba: all
-disa: enemy. (m.)
-anuparigamma (voc.): "O, above what should be understood"
-    upari: above; on; upon; upper; overhead. (ind.)
-    gamma: vulgar; what should be understood or attained. (adj.)
+disa: directions
+anuparigamma (abs.): 
+    anu: "all around" (sense of repetition)
+    pari: 
+    gam: going (gato)
 cetasā: "of the mind"
 
 > nevajjhagā piyataramattanā kvaci.
 
-nevajjhagā: "one would not experience"
+nevajjhagā: "one would not experience" / "one cannot find"
     na + eva: not + emphatic = "one would not"
     ajjhagā: came to; obtained; experienced. (pret. of adhigacchati)
 
-piyataramattanā: piyatara (dearest) + m + attana (self)
+piyataramattanā: piyatara (dear-er) + m + attana (self)
 
-kvaci: somewhere; in some places. (ind.)
+kvaci: anywhere; somewhere; in some places. (ind.)
+    ko: where
+    -ci: any
 
 > Evaṃ piyo puthu attā paresaṃ,
 
 evaṃ: thus
 piyo: dear
-puthu: individual (separate/d)
+puthu: "individual" (separate/d) -or- "most"
+    piyo putthu = "most dear"
+
 attā: self
-paresaṃ: that other person
+paresaṃ: "anyone"; that other person - (gen.) "of others"
     para: other; another; foreign; alien; outsider. (adj.)
     esa: (euphonic form of eso), that person. ()
 
@@ -193,11 +215,14 @@ paresaṃ: that other person
 
 tasmā: therefore
 na: do not
-hiṃse (voc.): "O, violence"
+hiṃse: "violence" / "should [not] harm"
     hiṃsā: teasing; injury; hurting. (f.)
 
 paramattakāmo: "the other who is full of self-conceit / self-love" ?
+    => -or- "one who loves himself should not harm another"
+            para (other [should not be harmed]) 
+            + attakāmo (one who loves himself)
+    para + m + atta + kamo
     para: other
-    matta: was intoxicated; full of joy; proud of; conceited; polished.
-           (- ka), (in cpds.) of the size of; as much as. (pp. of majjati)
+    atta: self (them)
     kāma: pleasure; lust; enjoyment; an object of sexual enjoyment. (m.)
