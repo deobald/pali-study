@@ -58,6 +58,33 @@ puna: again
 geha: gaha, ghar, grh (house)
 na kaahasi: will not build (opt. case?)
 
+> sabbaa te phāsukā bhaggaa
+
+sabbaa: all
+phāsukā: rib, flank (lit.) "beam" (fig.)
+bhagga: broken; destroyed. (pl. pp. of bhañjati)
+
+> gahakūṭaṃ visaṅkhitaṃ
+
+gahakūṭaṃ: gaha (house) + kūṭa (peak, top, ridge)
+visaṅkhitaṃ: vi + sam + khata = "destroyed, annihilated"
+    khata: dug; uprooted. (pp. of khaṇati)
+
+> visaṅkhāra-gata.m citta.m
+
+visaṅkhāra: divestment of all material things (?)
+    + gataṃ: "arrived at" (?)
+
+(or to go past all sankharaa?)
+
+citta.m: the mind
+
+
+
+
+
+
+
 
 
 
