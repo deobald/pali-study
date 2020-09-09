@@ -172,6 +172,30 @@ to be true, correct, connected with benefit [sā ca = but] agreeable / endearing
 
 ---
 
+> taṃ kissa hetu? 
+> atthi, rājakumāra, tathāgatassa sattesu anukampā”ti.
+
+> taṃ kissa hetu? 
+
+kiṃ: "what?"
+
+"that; for what reason?" => "why is that?"
+
+> atthi, rājakumāra, tathāgatassa sattesu anukampā”ti.
+
+atthi: lit. "there is"
+tathāgatassa (dat.): "of the tathagata"
+sattesu: [in regard to] living beings
+anukampā: compassion = "to tremble along with"
+    anu = "along with"
+    kampati = "to shake"
+
+=> "the tathagat has compassion for all living beings"
+
+---
+
+
+
 
 
 
