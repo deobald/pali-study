@@ -351,7 +351,7 @@ and how, bhikkhus, is one caught by the present dhammas?
 paccuppanna [dhammesu]: existing; present. (adj.)
 saṃhīrati [Pass. of saṃharati] to be drawn away or caught in (loc.)
 
-> idha, bhikkhave, assutavā puthujjano ariyānaṃ adassāvī, ariyadhammassa akovido, ariyadhamme avinīto 
+> idha, bhikkhave, assutavā puthujjano: ariyānaṃ adassāvī, ariyadhammassa akovido, ariyadhamme avinīto 
 
 idha: here; in this world or existence. (adv.)
 assutavant (nom.): ignorant; one who has no learning. (adj.)
@@ -378,7 +378,8 @@ rūpasmiṃ vā attānaṃ (loc.)    = or self in form
 > vedanaṃ ... pe ... 
 > saññaṃ... 
 > saṅkhāre... 
-> viññāṇaṃ attato samanupassati, viññāṇavantaṃ vā attānaṃ attani vā viññāṇaṃ, viññāṇasmiṃ vā attānaṃ 
+> viññāṇaṃ attato samanupassati, 
+> viññāṇavantaṃ vā attānaṃ attani vā viññāṇaṃ, viññāṇasmiṃ vā attānaṃ 
 
 > — evaṃ kho, bhikkhave, paccuppannesu dhammesu saṃhīrati.
 
@@ -387,9 +388,94 @@ saṃhīrati [Pass. of saṃharati] to be drawn away or caught in (loc.)
 
 ---
 
+> “kathañca, bhikkhave, paccuppannesu dhammesu na saṃhīrati?
 
+and how, bhikkhus, does one not get caught by the present dhammas?
 
+paccuppanna [dhammesu]: existing; present. (adj.)
+saṃhīrati [Pass. of saṃharati] to be drawn away or caught in (loc.)
 
+> idha, bhikkhave, sutavā ariyasāvako: ariyānaṃ dassāvī, ariyadhammassa kovido, ariyadhamme suvinīto 
+
+idha: here; in this world or existence. (adv.)
+sutavant: learned. (adj.)
+ariya + sāvako: disciple of noble ones
+
+ariyānaṃ (dat./gen. of noble ones) dassāvī (he does see)
+ariyadhammassa (dat./gen. of true dhamma) kovido (he is skilled)
+ariyadhamme (loc. sing. in the dhamma) suvinīto (he is educated)
+
+> sappurisānaṃ dassāvī, sappurisadhammassa kovido, sappurisadhamme suvinīto na rūpaṃ attato samanupassati, 
+
+sappurisānaṃ (dat./gen. pl. of worthy people) dassāvī (he does see)
+sappurisadhammassa (dat./gen. of worthy peoples' dhamma) kovido (he is skilled)
+sappurisadhamme (loc. sing. in the worth peoples' dhamma) suvinīto (he is educated)
+
+na (negation) rūpaṃ (form) attato (atta) samanupassati (3rd. sing. he sees)
+
+> na rūpavantaṃ vā attānaṃ, na attani vā rūpaṃ, na rūpasmiṃ vā attānaṃ; 
+
+na (negation) applied to all 3:
+
+na rūpavantaṃ vā attānaṃ (acc.?) = neither self "possessing" (?) form
+na attani vā rūpaṃ (loc.)        = nor form in self
+na rūpasmiṃ vā attānaṃ (loc.)    = nor self in form
+
+> na vedanaṃ... 
+> na saññaṃ... 
+> na saṅkhāre... 
+> na viññāṇaṃ attato samanupassati, 
+> na viññāṇavantaṃ vā attānaṃ, na attani vā viññāṇaṃ, na viññāṇasmiṃ vā attānaṃ 
+
+> — evaṃ kho, bhikkhave, paccuppannesu dhammesu na saṃhīrati.
+
+paccuppanna [dhammesu]: existing; present. (adj.)
+na saṃhīrati [Pass. of saṃharati] (not) to be drawn away or caught in (loc.)
+
+---
+
+> “atītaṃ nānvāgameyya, ... pe ...
+
+Let a person not revive the past
+
+**atīta**: past; gone by. (m.), the past. (adj.)
+nānvāgameyya: component parts?
+    ????
+    game: **gacchati**: goes; moves; walks. (gam + a)
+
+---
+
+> “‘bhaddekarattassa vo, bhikkhave, uddesañca vibhaṅgañca desessāmī’ti 
+
+bhaddekarattassa (gen./dat.): of the single excellent night
+vo: to you; of you; by you. (enclitic from tumha)
+uddesañca:
+    **uddesa**: 1\. indication; 2. propounding; 3. recitation. (m.)
+vibhaṅgañca:
+    **vibhaṅga**: distribution; division; classification. (m.)
+desessāmī:
+    **deseti**: points out; preaches; expounds. (dis + e)
+
+> — iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vuttan”ti.
+
+iti: thus
+yaṃ taṃ: whichever that / because of that
+vuttaṃ: [this] speech/discourse
+idametaṃ: this + this thing
+paṭicca: on account of; because of; concerning. (ind. & abs.)
+vuttan: [that it is] spoken
+
+> idamavoca bhagavā. attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
+
+ida (this thing) + voca (said)
+bhagavā (voc.): spoken by the bhagava
+
+attamanā: lit. "self-mind" = happiness
+te bhikkhū: those (you) bhikkhus
+bhagavato (nom.) bhāsitaṃ: the buddha's speech
+abhinandunti => abhinandati: rejoices at; finds pleasure in; approves of.
+    (abhi + nand + a) 
+    -- interesting that "nandi" is used in a negative context above.
 
 
 
