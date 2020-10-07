@@ -155,15 +155,237 @@ muni: a monk, a sage
 
 ---
 
+> “kathañca, bhikkhave, atītaṃ anvāgameti? 
 
+kathañca: "and how?"
+    **kathaṃ**: how? (adv.)
+    ca: and
+**atīta**: past; gone by. (m.), the past. (adj.)
+anvāgameti: anv (negate?) + agameti = "go and get"?
+    **āgameti**: waits for; expects. (ā + gam + e)
+    ??? is 'game' from 'gachati'?
 
+> ‘evaṃrūpo ahosiṃ atītamaddhānan’ti tattha nandiṃ samanvāneti, 
 
+eva: emph. / "just this"
+rupo: form
 
+ahosiṃ (1st. past.): to exist;
+    a + hosi + ṃ
 
+atītamaddhānan = atīta + m + addhānaṃ
+    **atīta**: past; gone by. (m.), the past. (adj.)
+    **addhāna**: a long path, time, or journey; highroad. (nt.)
+        same meaning as **addhan** but as simplex only used with reference to time (i. e. a long time, cp. VvA 117 addhānaṃ = ciraṃ). Usually in phrase **atītaṃ** (anāgataṃ etc.) **addhānaṃ** in the past (future etc.)
 
+tattha: lit. "there"
+    - time or place?
 
+nandi: pleasure; joy; delight; craving. (f.)
 
+samanvāneti:
+(1) saṃ + vāneti: craving comes
+    **vāna**: craving; netting of a bed. (nt.)  
+    **eti**: comes. (i + a)
+(2) sam + manva + āneti ?
+    **saṃ**: emph.
+    **mana**: [his] mind
+    **āneti**: brings; fetches. (ā + ni + a)
 
+> ‘evaṃvedano ahosiṃ atītamaddhānan’ti tattha nandiṃ samanvāneti, 
+
+eva: emph. / "just this"
+vedanā: sensation. (f.)
+
+> ‘evaṃsañño ahosiṃ atītamaddhānan’ti tattha nandiṃ samanvāneti, 
+
+eva: emph. / "just this"
+saññā: sense; perception;  (f.)
+    also: mark; name; recognition; gesture. 
+
+> ‘evaṃsaṅkhāro ahosiṃ atītamaddhānan’ti tattha nandiṃ samanvāneti,
+
+eva: emph. / "just this"
+saṅkhāra: "habit patterns"
+    essential condition; a thing conditioned, mental coefficients. (m.)
+
+> ‘evaṃviññāṇo ahosiṃ atītamaddhānan’ti tattha nandiṃ samanvāneti 
+
+eva: emph. / "just this"
+viññāṇa: animation; consciousness. (nt.)
+
+> — evaṃ kho, bhikkhave, atītaṃ anvāgameti.
+
+like this, bhikkhus, the past is revived.
+
+**atīta**: past; gone by. (m.), the past. (adj.)
+anvāgameti: anv (negate?) + agameti = "go and get"?
+    **āgameti**: waits for; expects. (ā + gam + e)
+
+---
+
+> “kathañca, bhikkhave, atītaṃ nānvāgameti? 
+
+and how, bhikkhus, does one not revive the past?
+
+atītaṃ: past
+nānvāgameti: na + anvāgameti
+
+> ‘evaṃrūpo ahosiṃ atītamaddhānan’ti tattha nandiṃ na samanvāneti, 
+
+na samanvāneti: "na" is added
+    (1) do not allow craving to come
+    (2) do not allow [your] mind to "fetch" craving
+
+> ‘evaṃvedano ahosiṃ atītamaddhānan’ti   tattha nandiṃ na samanvāneti, 
+> ‘evaṃsañño ahosiṃ atītamaddhānan’ti    tattha nandiṃ na samanvāneti, 
+> ‘evaṃsaṅkhāro ahosiṃ atītamaddhānan’ti tattha nandiṃ na samanvāneti, 
+> ‘evaṃviññāṇo ahosiṃ atītamaddhānan’ti  tattha nandiṃ na samanvāneti 
+
+> — evaṃ kho, bhikkhave, atītaṃ nānvāgameti.
+
+atītaṃ: past
+nānvāgameti: na + anvāgameti
+    "not revive" (?)
+
+---
+
+> 274. “kathañca, bhikkhave, anāgataṃ paṭikaṅkhati? 
+
+and how, bhikkhus, does one not wish and long for what has not yet come?
+
+anāgataṃ = an (not) + āgata [pp. of āgacchati] (come, arrived)
+paṭikaṅkhati: wishes or longs for. (paṭi + kakh + ṇ-a)
+    [paṭi+kānkṣ] - can't find word roots in dictionary
+    
+> ‘evaṃrūpo siyaṃ anāgatamaddhānan’ti tattha nandiṃ samanvāneti, 
+
+siyaṃ (1st. opt.): "may there be" (opt.) - conjugation of 'atthi'
+    **atthi**: to be; to exist. (as + a + ti)
+
+anāgatamaddhānan = anāgata + m + addhānan
+    **anāgata** = an (not) + āgata [pp. of āgacchati] (come, arrived)
+    **addhāna**: a long path, time, or journey; highroad. (nt.)
+        same meaning as **addhan** but as simplex only used with reference to time (i. e. a long time, cp. VvA 117 addhānaṃ = ciraṃ). Usually in phrase **atītaṃ** (anāgataṃ etc.) **addhānaṃ** in the past (future etc.)
+
+tattha: lit. "there"
+    - time or place?
+
+nandi: pleasure; joy; delight; craving. (f.)
+
+samanvāneti:
+(1) saṃ + vāneti: craving comes
+    **vāna**: craving; netting of a bed. (nt.)  
+    **eti**: comes. (i + a)
+(2) sam + manva + āneti ?
+    **saṃ**: emph.
+    **mana**: [his] mind
+    **āneti**: brings; fetches. (ā + ni + a)
+
+> evaṃvedano siyaṃ ... pe ... 
+
+sensation
+
+> evaṃsañño siyaṃ... 
+
+perception
+
+> evaṃsaṅkhāro siyaṃ... 
+
+habit patterns / conditions
+
+> evaṃviññāṇo siyaṃ anāgatamaddhānanti tattha nandiṃ samanvāneti 
+
+consciousness
+
+> — evaṃ kho, bhikkhave, anāgataṃ paṭikaṅkhati.
+
+anāgataṃ = an (not) + āgata [pp. of āgacchati] (come, arrived)
+paṭikaṅkhati: wishes or longs for. (paṭi + kakh + ṇ-a)
+    [paṭi+kānkṣ] - can't find word roots in dictionary
+
+---
+
+> “kathañca, bhikkhave, anāgataṃ nappaṭikaṅkhati? 
+
+anāgataṃ = an (not) + āgata [pp. of āgacchati] (come, arrived)
+nappaṭikaṅkhati: (not) wishes or longs for. (na + paṭi + kakh + ṇ-a)
+    [paṭi+kānkṣ] - can't find word roots in dictionary
+
+> ‘evaṃrūpo siyaṃ anāgatamaddhānan’ti tattha nandiṃ na samanvāneti,
+
+siyaṃ (1st. opt.): "may there be" (opt.) - conjugation of 'atthi'
+    **atthi**: to be; to exist. (as + a + ti)
+
+anāgatamaddhānan = anāgata + m + addhānan
+    **anāgata** = an (not) + āgata [pp. of āgacchati] (come, arrived)
+    **addhāna**: a long path, time, or journey; highroad. (nt.)
+        same meaning as **addhan** but as simplex only used with reference to time (i. e. a long time, cp. VvA 117 addhānaṃ = ciraṃ). Usually in phrase **atītaṃ** (anāgataṃ etc.) **addhānaṃ** in the past (future etc.)
+
+tattha: lit. "there"
+    - time or place?
+
+nandi: pleasure; joy; delight; craving. (f.)
+
+na samanvāneti:
+(1) to not allow craving to come
+(2) to not allow the mind to "fetch" craving
+
+> evaṃvedano siyaṃ ... 
+> evaṃsañño siyaṃ... 
+> evaṃsaṅkhāro siyaṃ... 
+> ‘evaṃviññāṇo siyaṃ anāgatamaddhānan’ti tattha nandiṃ na samanvāneti 
+
+> — evaṃ kho, bhikkhave, anāgataṃ nappaṭikaṅkhati.
+
+anāgataṃ = an (not) + āgata [pp. of āgacchati] (come, arrived)
+nappaṭikaṅkhati: (not) wishes or longs for. (na + paṭi + kakh + ṇ-a)
+    [paṭi+kānkṣ] - can't find word roots in dictionary
+
+---
+
+> 275. “kathañca, bhikkhave, paccuppannesu dhammesu saṃhīrati?
+
+and how, bhikkhus, is one caught by the present dhammas?
+
+paccuppanna [dhammesu]: existing; present. (adj.)
+saṃhīrati [Pass. of saṃharati] to be drawn away or caught in (loc.)
+
+> idha, bhikkhave, assutavā puthujjano ariyānaṃ adassāvī, ariyadhammassa akovido, ariyadhamme avinīto 
+
+idha: here; in this world or existence. (adv.)
+assutavant (nom.): ignorant; one who has no learning. (adj.)
+puthujjana (nom.): a common world-ling; uneducated person. (m.)
+
+ariyānaṃ (dat./gen. of noble ones) adassāvī (he does not see)
+ariyadhammassa (dat./gen. of true dhamma) akovido (he is unskilled)
+ariyadhamme (loc. sing. in the dhamma) avinīto (he is uneducated)
+
+> sappurisānaṃ adassāvī, sappurisadhammassa akovido, sappurisadhamme avinīto rūpaṃ attato samanupassati, 
+
+sappurisānaṃ (dat./gen. pl. of worthy people) adassāvī (he does not see)
+sappurisadhammassa (dat./gen. of worthy peoples' dhamma) akovido (he is unskilled)
+sappurisadhamme (loc. sing. in the worth peoples' dhamma) avinīto (he is uneducated)
+
+rūpaṃ (form) attato (atta) samanupassati (3rd. sing. he sees)
+
+> rūpavantaṃ vā attānaṃ, attani vā rūpaṃ, rūpasmiṃ vā attānaṃ;
+
+rūpavantaṃ vā attānaṃ (acc.?) = either self "possessing" (?) form
+attani vā rūpaṃ (loc.)        = or form in self
+rūpasmiṃ vā attānaṃ (loc.)    = or self in form
+
+> vedanaṃ ... pe ... 
+> saññaṃ... 
+> saṅkhāre... 
+> viññāṇaṃ attato samanupassati, viññāṇavantaṃ vā attānaṃ attani vā viññāṇaṃ, viññāṇasmiṃ vā attānaṃ 
+
+> — evaṃ kho, bhikkhave, paccuppannesu dhammesu saṃhīrati.
+
+paccuppanna [dhammesu]: existing; present. (adj.)
+saṃhīrati [Pass. of saṃharati] to be drawn away or caught in (loc.)
+
+---
 
 
 
